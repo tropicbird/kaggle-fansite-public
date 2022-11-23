@@ -1,0 +1,1001 @@
+rank,tier,name,url,gold,silver,bronze,points,country,region,city,occupation,organization
+1,grandmaster,Chris Deotte,https://www.kaggle.com/cdeotte,293,368,3520,8412,United States,California,San Diego,Data Scientist & Researcher,Nvidia
+2,grandmaster,CPMP,https://www.kaggle.com/cpmpml,394,520,4166,5604,France,UNKOWN,UNKOWN,RAPIDS and deep learning,NVIDIA
+3,grandmaster,,https://www.kaggle.com/hengck23,349,391,2142,5598,Singapore,UNKOWN,UNKOWN,Z by HP & NVIDIA Data Science Global Ambassador,UNKOWN
+4,master,Marília Prata,https://www.kaggle.com/mpwolke,24,51,6948,4464,Brazil,State of Rio de Janeiro,Rio de Janeiro,Doctor of Dental Surgery,Self employed
+5,grandmaster,Yam Peleg,https://www.kaggle.com/yamqwe,58,32,1056,3095,Israel,Tel Aviv District,Tel Aviv-Yafo,UNKOWN,UNKOWN
+6,grandmaster,Carl McBride Ellis,https://www.kaggle.com/carlmcbrideellis,83,82,1068,2858,Spain,Community of Madrid,Madrid,Freelance,remote
+7,grandmaster,Tensor Girl,https://www.kaggle.com/usharengaraju,86,26,740,2399,India,Karnataka,Bengaluru,Nobody,Nowhere
+8,grandmaster,Psi,https://www.kaggle.com/philippsinger,113,186,989,2152,Austria,Vienna,Vienna,Senior Data Scientist,H2O.AI
+9,grandmaster,Yirun Zhang,https://www.kaggle.com/gogo827jz,67,73,613,1702,United Kingdom,England,London, PhD in Telecommunications,King's College London
+10,grandmaster,Abhishek Thakur,https://www.kaggle.com/abhishek,132,138,845,1631,Norway,Rogaland,Stavanger,AutoNLP,Hugging Face
+11,master,Luca Massaron,https://www.kaggle.com/lucamassaron,50,30,298,1490,Italy,Veneto,Verona,Data Science & Modelling Senior Expert,illimity Bank
+12,grandmaster,Gunes Evitan,https://www.kaggle.com/gunesevitan,77,75,526,1430,Turkey,Ankara,Ankara,Data Scientist,Orientis/Algomedicus
+13,expert,Karnika Kapoor,https://www.kaggle.com/karnikakapoor,7,2,1561,1412,India,Delhi,Delhi,ML Enthusiast,Earth
+14,grandmaster,Dieter,https://www.kaggle.com/christofhenkel,114,120,504,1383,Germany,Bavaria,Munich,Deep Learning Data Scientist,Nvidia
+15,grandmaster,Theo Viel,https://www.kaggle.com/theoviel,59,55,412,1340,France,Île-de-France,Paris,Research Scientist,DAMAE Medical
+16,master,xhlulu,https://www.kaggle.com/xhlulu,59,49,280,1328,Canada,Quebec,Montreal, 💻,🏛️
+17,master,KritiDoneria,https://www.kaggle.com/kritidoneria,30,34,595,1318,India,Haryana,Gurugram,Analytics,Decisionpoint.ai
+18,grandmaster,Ahmet Erdem,https://www.kaggle.com/aerdem4,89,98,390,1294,Turkey,İstanbul,İstanbul,Machine Learning,NVIDIA
+19,grandmaster,mugen88,https://www.kaggle.com/mugentk,51,16,460,1247,Japan,Osaka,Osaka,Data Scientist,JTC
+20,master,Charlie Craine,https://www.kaggle.com/crained,41,27,244,1221,United States,Ohio,Cleveland,CTO,MMW
+21,master,Gilles Vandewiele,https://www.kaggle.com/group16,38,42,398,1193,Belgium,Flanders,Ghent,Postdoc,Ghent University
+22,grandmaster,Bojan Tunguz,https://www.kaggle.com/tunguz,149,164,713,1170,United States,Indiana,Greencastle,Data Scientist,Nvidia
+23,grandmaster,Konstantin Yakovlev,https://www.kaggle.com/kyakovlev,58,67,419,1125,Portugal,Lisbon,Cascais,PM,__self__
+24,expert,Jonas Paluci Barbosa,https://www.kaggle.com/jonaspalucibarbosa,11,14,312,1122,Brazil,State of Espírito Santo,Vitoria,UNKOWN,UNKOWN
+25,grandmaster,DrHB,https://www.kaggle.com/drhabib,53,72,396,1121,United States,Virginia,Ashburn,Scientist,HHMI
+26,grandmaster,عثمان,https://www.kaggle.com/authman,51,75,557,1102,United States,Texas,Irving,Machine Learning Underperformer,UNKOWN
+27,grandmaster,Heads or Tails,https://www.kaggle.com/headsortails,92,65,615,1092,United States,California,San Francisco,curious,heart
+28,master,Mr_KnowNothing,https://www.kaggle.com/tanulsingh077,37,26,286,1046,United States,California,California City,Applied AI Research Engineer,LevelAI
+29,master,Kamal Das,https://www.kaggle.com/kmldas,39,43,391,1046,India,Lakshadweep,Kavaratti,Learning,Everywhere
+30,master,Shivam Bansal,https://www.kaggle.com/shivamb,45,28,387,1033,Singapore,UNKOWN,Singapore,Data Science,H2O.ai
+31,master,RDizzl3,https://www.kaggle.com/rdizzl3,51,45,345,1017,United States,California,Los Angeles,Engineering Manager - Data Science & Analytics,Tesorio
+32,grandmaster,Andrew Lukyanenko,https://www.kaggle.com/artgor,92,84,707,1015,Russia,UNKOWN,Moscow,R&D CV TechLead,deep learning
+33,master,Darien Schettler,https://www.kaggle.com/dschettler8845,27,24,245,1000,Canada,Ontario,Waterloo,Staff Machine Learning Architect,VMWare Inc.
+34,grandmaster,Gabriel Preda,https://www.kaggle.com/gpreda,55,52,534,992,Romania,Bucharest,Bucharest,Data Scientist,Endava
+35,grandmaster,Serigne,https://www.kaggle.com/serigne,51,125,702,980,France,Île-de-France,Paris,Quant Data Scientist,UNKOWN
+36,master,Yassine Alouini,https://www.kaggle.com/yassinealouini,41,53,670,960,France,UNKOWN,"Bordeaux, France",Data Scientist,Fieldbox
+37,expert,Slawek Biel,https://www.kaggle.com/slawekbiel,22,18,154,956,Poland,Lesser Poland Voivodeship,Kraków,Unemployed,Home
+38,grandmaster,ryches,https://www.kaggle.com/ryches,69,61,392,944,United States,California,San Diego,Data Scientist,H2O
+39,master,datasaurus,https://www.kaggle.com/anjum48,36,43,261,925,United Kingdom,England,London,UNKOWN,UNKOWN
+40,master,yone-moto,https://www.kaggle.com/tyonemoto,28,42,141,904,Japan,Osaka,Ikeda,Engineer,JTC
+41,master,Matthew Masters,https://www.kaggle.com/matthewmasters,23,45,567,900,United States,Massachusetts,Boston,Student,Purdue University
+42,grandmaster,Nanashi,https://www.kaggle.com/jesucristo,71,76,572,887,United Kingdom,England,London,Alchemist,Kaggle
+43,master,Lucas Morin,https://www.kaggle.com/lucasmorin,19,34,286,879,France,Île-de-France,Paris,ML Engineer - Corporate Credit Risk,UNKOWN
+44,expert,Allohvk,https://www.kaggle.com/allohvk,19,24,456,873,India,Karnataka,Bengaluru,Software Craftsman,UNKOWN
+45,grandmaster,Mobassir,https://www.kaggle.com/mobassir,52,66,848,860,Bangladesh,Dhaka Division,Dhaka,Interested in computer vision for biomedical imaging,kaggle
+46,master,kkiller,https://www.kaggle.com/kneroma,40,23,178,848,France,Île-de-France,Paris,Data Scientist,UNKOWN
+47,master,Qishen Ha,https://www.kaggle.com/haqishen,46,30,204,846,Japan,Tokyo,Tokyo,Machine Learning Engineer,LINE corp.
+48,grandmaster,Rob Mulla,https://www.kaggle.com/robikscube,67,60,575,827,United States,District of Columbia,Washington,Tom,o
+49,master,PAVAN KUMAR D,https://www.kaggle.com/mragpavank,34,16,421,826,India,Karnataka,Bengaluru,Data services consultant,SAP Ariba
+50,expert,YuyaYamamoto,https://www.kaggle.com/nejumi,42,22,91,822,Japan,Tokyo,Tokyo,hoge,hoge
+51,expert,AmbrosM,https://www.kaggle.com/ambrosm,16,17,94,817,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+52,expert,Mohamed Hany,https://www.kaggle.com/mohamedhanyyy,15,28,564,812,Egypt,Cairo Governorate,Cairo,Data Scientist ,QN Academy
+53,grandmaster,Vopani,https://www.kaggle.com/rohanrao,55,59,412,808,India,Karnataka,Bengaluru,Data Scientist,H2O.ai
+54,master,M.Innat,https://www.kaggle.com/ipythonx,31,33,444,808,Bangladesh,Dhaka Division,Dhaka,AI Software Engineer,AISamurai Japan Ltd.
+55,master,Ilu,https://www.kaggle.com/ilu000,15,55,476,798,Germany,North Rhine-Westphalia,Aachen,Software Engineer,Aachen
+56,grandmaster,Giba,https://www.kaggle.com/titericz,100,112,479,793,Brazil,State of Paraná,Curitiba,RAPIDS,NVIDIA
+57,expert,Awsaf,https://www.kaggle.com/awsaf49,22,16,216,791,Bangladesh,Dhaka Division,Dhaka,Student,UNKOWN
+58,expert,Old Monk,https://www.kaggle.com/saurabhbagchi,11,15,546,784,India,Uttar Pradesh,Lucknow,Student,"University of Texas, Austin"
+59,master,nosound,https://www.kaggle.com/zaharch,44,45,272,764,Israel,Haifa District,Haifa,Ph.D. student,Technion
+60,master,Tawara,https://www.kaggle.com/ttahara,33,24,164,752,Japan,Kanagawa,Yokohama,Research & Development Engineer,a JTC
+61,expert,nyanp,https://www.kaggle.com/nyanpn,24,21,80,750,Japan,Osaka,Osaka,Engineer,Japan
+62,expert,phalanx,https://www.kaggle.com/phalanx,28,35,68,734,Japan,Tokyo,Tokyo,MLEngineer,ExaWizards
+63,master,Iafoss,https://www.kaggle.com/iafoss,28,35,476,723,United States,Maryland,Gaithersburg,Research Scientist,IAI
+64,master,ONODERA,https://www.kaggle.com/onodera,58,56,222,717,Japan,Tokyo,Shibuya City,Senior Deep Learning Data Scientist,NVIDIA
+65,expert,Y.Nakama,https://www.kaggle.com/yasufuminakama,27,21,153,715,Japan,Tokyo,Tokyo,Data Scientist,XXX
+66,expert,Darek Kłeczek,https://www.kaggle.com/thedrcat,25,14,138,713,Poland,Masovian Voivodeship,Warsaw,Data Science,P&G
+67,grandmaster,Mohammad Shahebaz,https://www.kaggle.com/shaz13,51,31,452,708,India,Telangana,Hyderabad,CFDS,DataRobot
+68,master,Pranjal Verma,https://www.kaggle.com/pranjalverma08,32,29,223,704,India,Rajasthan,Kota,Student,IIT Guwahati
+69,expert,Sharlto Cope,https://www.kaggle.com/dwin183287,2,2,1057,702,Indonesia,Jakarta,Jakarta,a learner,heart
+70,master,Aditya Soni,https://www.kaggle.com/adityaecdrid,31,39,910,699,India,Karnataka,Bengaluru,Machine Learning Engineer,Tabsquare.ai
+71,master,Peter,https://www.kaggle.com/pestipeti,45,31,293,697,Hungary,UNKOWN,Budapest,"\,,/ (^_^)",(-(-_(-_-)_-)-)
+72,expert,Georgii Vyshnia,https://www.kaggle.com/gvyshnya,9,24,750,692,Ukraine,UNKOWN,Kyiv,CTO,Aistra
+73,grandmaster,raddar,https://www.kaggle.com/raddar,81,90,419,690,Lithuania,Vilnius County,Vilnius,Co-Founder & Data Scientist,oxipit.ai
+74,master,Hidehisa Arai,https://www.kaggle.com/hidehisaarai1213,30,38,216,689,Japan,Tokyo,Tokyo,ML Engineer,Recruit Co. Ltd
+75,master,Morimori,https://www.kaggle.com/ryosukemoriz,10,44,212,686,Japan,Osaka,Osaka,data scientist,JTC
+76,master,Kirderf,https://www.kaggle.com/kirderf,26,43,344,685,Sweden,Stockholm County,Stockholm,nan,nan
+77,expert,des,https://www.kaggle.com/desalegngeb,10,17,544,675,Netherlands,Gelderland,Arnhem,DS MOOC'er,OpenSource
+78,expert,Anandhu H,https://www.kaggle.com/anandhuh,15,11,342,669,India,Kerala,Varkala,M.Sc Data Science Student,University of Kerala
+79,expert,Takoi,https://www.kaggle.com/takoihiraokazu,30,21,36,660,Japan,Fukuoka,Fukuoka,Data Scientist,Rist
+80,expert,Subham Surana,https://www.kaggle.com/subhamjain,18,7,252,658,India,Jharkhand,Ranchi,Student,BIT Mesra
+81,expert,Tolga,https://www.kaggle.com/tolgadincer,26,18,364,635,United States,Pennsylvania,Easton,UNKOWN,UNKOWN
+82,expert,Vahideh Dashti,https://www.kaggle.com/vahidehdashti,3,5,694,635,Iran,Yazd Province,Yazd,Data Analyst,Filoger
+83,expert,Hiroshi Oshio,https://www.kaggle.com/hiroshioshio,23,19,41,624,Japan,Hyogo,Kobe,UNKOWN,UNKOWN
+84,master,nakamuran,https://www.kaggle.com/nakamuran,10,41,162,623,Japan,Osaka,Osaka,Datascientist,JTC 
+85,master,Khoi Nguyen,https://www.kaggle.com/suicaokhoailang,46,61,234,614,Vietnam,Ho Chi Minh City,Ho Chi Minh City,Phụ Hồ,Zalo
+86,expert,PC Jimmmy,https://www.kaggle.com/pcjimmmy,12,33,586,599,United States,Pennsylvania,Pittsburgh,Consultant ,Retired
+87,grandmaster,beluga,https://www.kaggle.com/gaborfodor,56,98,378,590,Hungary,UNKOWN,Budapest,Data Scientist,H2O.ai
+88,expert,torch,https://www.kaggle.com/rhtsingh,9,17,202,587,India,Uttar Pradesh,Noida,Senior Data Science Engineer,IRIS Software
+89,expert,Kaan BOKE,https://www.kaggle.com/kaanboke,9,10,462,586,Finland,UNKOWN,Helsinki,Data Scientist & Researcher,UNKOWN
+90,master,Camaro,https://www.kaggle.com/bamps53,34,19,171,580,Japan,Osaka,Osaka,ML Engineer,manufacturing company
+91,expert,KhanhVD,https://www.kaggle.com/duykhanh99,17,13,396,574,Vietnam,Hanoi,Hanoi,Student,Ha Noi University of Science and Technology
+92,expert,Jaideep,https://www.kaggle.com/jaideepvalani,13,23,398,573,India,Karnataka,Bengaluru,Consultant,TCS
+93,master,Ruchi Bhatia,https://www.kaggle.com/ruchi798,22,37,324,573,India,Maharashtra,Mumbai,Data Science Global Ambassador,HP & NVIDIA
+94,expert,Yue Sun,https://www.kaggle.com/yus002,27,15,222,570,China,Shanghai,Shanghai,Algorithm Engineer,SAIC Motor AI Lab
+95,master,CoreyLevinson,https://www.kaggle.com/returnofsputnik,35,55,569,567,United States,Illinois,Chicago,UNKOWN,UNKOWN
+96,expert,Michal Bogacz,https://www.kaggle.com/michau96,10,16,450,563,Poland,Pomeranian Voivodeship,Gdańsk,Data Scientist,PwC
+97,master,MPWARE,https://www.kaggle.com/mpware,29,31,313,562,France,Occitanie,Toulouse,data-scientist,private company
+98,expert,Mohamed Bakrey,https://www.kaggle.com/mohamedbakrey,5,2,500,562,Egypt,Giza Governorate,6th of October City,Data Scientist & Data Analyst,Freelancer
+99,expert,Ian Pan,https://www.kaggle.com/vaillant,26,25,92,558,United States,Massachusetts,Boston,Radiology Resident,Brigham & Women's Hospital
+100,expert,Zahra Amini,https://www.kaggle.com/aminizahra,3,1,500,555,Iran,Kerman Province,Shahrbabak,AI Student,Shiraz university
+101,master,mamas,https://www.kaggle.com/mamasinkgs,26,30,163,554,Japan,Tokyo,Tokyo,none ,kgs go server
+102,expert,DimitreOliveira,https://www.kaggle.com/dimitreoliveira,18,22,514,553,Brazil,State of Paraíba,Campina Grande,ML Engineer | Google Dev. Expert on ML,Intuition Machines
+103,expert,DeepUnderstanding,https://www.kaggle.com/mrinath,13,14,298,551,India,Assam,Guwahati,student,"NIT Silchar, Assam ,India"
+104,grandmaster,Konrad Banachewicz,https://www.kaggle.com/konradb,69,91,607,547,Netherlands,North Holland,Haarlem,I interrogate data for a living,TNG Quant Consultancy
+105,grandmaster,Μαριος Μιχαηλιδης KazAnova,https://www.kaggle.com/kazanova,73,81,440,540,Greece,UNKOWN,Volos,Data Scientist,H2O ai
+106,expert,Berkay Alan,https://www.kaggle.com/berkayalan,7,33,238,536,Turkey,Istanbul,Istanbul,Data Scientist,Getir
+107,expert,Suman Dey,https://www.kaggle.com/sumandey,10,7,432,533,India,Karnataka,Bengaluru,Senior Data Scientist,o9 Solutions
+108,expert,Saurabh Shahane,https://www.kaggle.com/saurabhshahane,22,10,334,530,India,Maharashtra,Mumbai,Founder and CEO,The Machine Learning Company
+109,expert,Heroseo,https://www.kaggle.com/piantic,18,10,300,529,South Korea,Seoul,Seoul,Data Scientist,no where
+110,expert,Martin Kovacevic Buvinic,https://www.kaggle.com/ragnar123,15,29,267,521,Chile,Santiago Metropolitan Region,Santiago,Data Scientist,UNKOWN
+111,expert,OH SEOK KIM,https://www.kaggle.com/ohseokkim,1,3,480,513,South Korea,Gyeonggi-do,Suwon-si,Software Engineer,Samsung Electronics.
+112,master,Doomsday,https://www.kaggle.com/phoenix9032,30,54,502,512,India,Tamil Nadu,Chennai,AI and ML Enthusiast,Tata Consultancy Services Ltd
+113,expert,AndresHG,https://www.kaggle.com/andreshg,0,2,806,512,Spain,Community of Madrid,Madrid,Z by HP Global Ambassador and Senior Data Scientist,CoverWallet
+114,expert,Nischay Dhankhar,https://www.kaggle.com/nischaydnk,16,16,319,509,India,Haryana,Gurugram,Undergraduate,"Netaji Subash University Of Technology, Delhi"
+115,master,Kha Vo,https://www.kaggle.com/khahuras,33,52,404,505,Australia,New South Wales,Sydney,UNKOWN,UNKOWN
+116,expert,Stas Sl,https://www.kaggle.com/stassl,17,20,91,504,Belarus,Minsk Region,Minsk,UNKOWN,UNKOWN
+117,master,JohnM,https://www.kaggle.com/jpmiller,39,61,413,503,United States,Texas,Fort Worth,Customer Data Scientist,H2O.ai
+118,expert,Sirish Somanchi,https://www.kaggle.com/sirishks,25,18,181,500,India,Telangana,Hyderabad,Freelance Architect,Self Employed
+119,expert,Devlikamov Vlad,https://www.kaggle.com/lordozvlad,2,0,430,493,Russia,Nizhny Novgorod Oblast,Nizhny Novgorod,Lab Assistant,UNN
+120,master,robga,https://www.kaggle.com/robga,18,32,259,490,United Kingdom,England,London,Technologist, 
+121,expert,Kalilur Rahman,https://www.kaggle.com/kalilurrahman,11,12,247,487,India,Telangana,Hyderabad,Something,Somewhere
+122,grandmaster,Firat Gonen,https://www.kaggle.com/frtgnn,57,21,677,486,Turkey,İstanbul,İstanbul,Head of Data Science & Analytics,GETIR
+123,expert,Chun Ming Lee,https://www.kaggle.com/leecming,21,19,96,482,Singapore,UNKOWN,UNKOWN,Data Science,H2O.ai
+124,expert,sin,https://www.kaggle.com/underwearfitting,15,25,215,479,United States,California,San Diego,UNKOWN,UNKOWN
+125,master,Bibek,https://www.kaggle.com/bibek777,44,43,214,472,South Korea,Seoul,Seoul,Research Engineer,UNKOWN
+126,expert,Nicholas Broad 🦘,https://www.kaggle.com/nbroad,12,15,149,472,United States,North Carolina,Durham,UNKOWN,🤗
+127,expert,Remek Kinas,https://www.kaggle.com/remekkinas,10,5,323,471,Poland,Masovian Voivodeship,Warsaw,CEO,ai5
+128,expert,Sourav Banerjee,https://www.kaggle.com/iamsouravbanerjee,12,0,256,471,India,West Bengal,Kolkata,Developer,Bizdata Inc.
+129,expert,Sirius,https://www.kaggle.com/trushk,14,13,130,469,United States,California,Santa Clara,Data Scientist,H2O.ai
+130,grandmaster,Jiwei Liu,https://www.kaggle.com/jiweiliu,70,89,588,468,United States,New Jersey,Fort Lee,Data Scientist,Nvidia AI infrastructure
+131,master,tito,https://www.kaggle.com/its7171,26,26,151,468,Japan,Tokyo,Tokyo,Search Engineer,Universal Knowledge Inc.
+132,expert,Andrada Olteanu,https://www.kaggle.com/andradaolteanu,14,14,121,467,Romania,Bucharest,Bucharest,Data Scientist,Endava
+133,expert,Ankit,https://www.kaggle.com/ankitp013,0,1,613,466,India,Maharashtra,Mumbai,Principal Data Scientist,Accrete.AI
+134,expert,Hongnan G,https://www.kaggle.com/reighns,17,18,227,457,Singapore,UNKOWN,Singapore,"ML Engineer, Business Analyst",Singapore
+135,expert,Faisal Alsrheed,https://www.kaggle.com/faisalalsrheed,12,21,140,454,Saudi Arabia,Eastern Province,Dammam,AI advisor,Freelancer
+136,expert,Debarshi Chanda,https://www.kaggle.com/debarshichanda,12,9,195,446,India,Maharashtra,Navi Mumbai,Student,IIT Guwahati
+137,expert,Adriano Passos,https://www.kaggle.com/coldfir3,10,8,45,444,Brazil,State of Paraná,Curitiba,Deep Learning Instructor,Passos
+138,expert,Bhuvan Chennoju,https://www.kaggle.com/bhuvanchennoju,0,3,579,430,United States,Missouri,Kansas City,Graduate Student,"University of Missouri, Kansas City"
+139,expert,T88,https://www.kaggle.com/t88take,13,21,64,430,Japan,Osaka,Osaka,Data Scientist,p
+140,expert,Bo,https://www.kaggle.com/boliu0,17,11,88,429,United States,New York,New York,Deep Learning,NVIDIA
+141,expert,Manav,https://www.kaggle.com/manabendrarout,7,7,333,425,India,Uttar Pradesh,Noida,Data Scientist,Optum
+142,expert,Tom Van de Wiele,https://www.kaggle.com/tvdwiele,15,28,168,424,Norway,Innlandet,Gran,Senior Quantitative Researcher,G-Research
+143,expert,Vivek Chowdhury,https://www.kaggle.com/vivek468,2,2,394,424,India,Delhi,New Delhi,Clinical Programmer,Novartis
+144,expert,Mostafa Alaa,https://www.kaggle.com/mostafaalaa123,8,13,218,422,Egypt,Aswan Governorate,Aswan,Student,"Aswan University, Engineering college"
+145,expert,YoonSoo,https://www.kaggle.com/harangdev,10,9,116,416,South Korea,Seoul,Seoul,Student,Seoul National University
+146,master,Shahules,https://www.kaggle.com/shahules,23,29,410,415,India,Kerala,Kochi,Data Scientist,XXXX
+147,expert,Guanshuo Xu,https://www.kaggle.com/wowfattie,17,10,110,413,United States,New York,New York,Data Scientist,H2O.ai
+148,expert,Trigram,https://www.kaggle.com/nxrprime,18,27,419,410,India,Karnataka,Bengaluru,We partake,a joyous amount of tomfoolery
+149,grandmaster,Scirpus,https://www.kaggle.com/scirpus,76,112,774,402,United Kingdom,England,London,Thinker,On the Loo
+150,expert,Ishan Dutta,https://www.kaggle.com/ishandutta,12,17,151,399,India,Maharashtra,Pune,Deep Learning Intern,NVIDIA
+151,expert,Jonathan Besomi,https://www.kaggle.com/jonathanbesomi,7,2,52,397,Switzerland,Vaud,Lausanne,Data Scientist,UNKOWN
+152,expert,Stone Tao,https://www.kaggle.com/stonet2000,11,12,103,396,United States,California,San Diego,Student,UC San Diego
+153,master,Fatih Ozturk,https://www.kaggle.com/fatihozturk,30,37,274,389,Turkey,Istanbul,Istanbul,Data Scientist,H2O
+154,master,Vlad Vaduva,https://www.kaggle.com/vladvdv,26,25,169,387,Romania,Bucharest,Bucharest,AI Lead Engineer,IdriveAI
+155,grandmaster,Raju Kumar Mishra,https://www.kaggle.com/dataraj,51,28,428,385,India,Karnataka,Bengaluru,Consultant and Corporate Trainer,Walsoul Private Limited
+156,expert,Takamichi Toda,https://www.kaggle.com/takamichitoda,15,6,59,385,Japan,Kanagawa,Kawasaki,Data Scientist,AI Shift
+157,expert,M. Gagan Chandra,https://www.kaggle.com/gaganmaahi224,0,0,388,385,India,Sikkim,Majitar,Student,Sikkim Manipal institute of technology
+158,expert,ootake,https://www.kaggle.com/ootake,12,15,45,383,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+159,expert,Lukasz Borecki,https://www.kaggle.com/lukaszborecki,8,8,150,381,Poland,Silesian Voivodeship,Jastrzębie-Zdrój,BI Analyst,JSW IT Systems
+160,expert,RabotniKuma,https://www.kaggle.com/analokamus,13,9,44,372,Japan,Tokyo,Tokyo,BEARtificial Intelligence,Aillis Inc.
+161,expert,CooRabi,https://www.kaggle.com/drtausamaru,10,15,139,370,Japan,Osaka,Osaka,Anesthesiologist,Operating Room
+162,master,yuval reina,https://www.kaggle.com/yuval6967,31,43,227,368,Israel,Tel Aviv District,Tel Aviv-Yafo,VP R&D,D-Fend
+163,expert,Maximiliano Diaz Battan,https://www.kaggle.com/maxdiazbattan,7,2,217,368,Argentina,Cordoba,Córdoba,Freelancer,UNKOWN
+164,expert,Dr. Amritpal Singh,https://www.kaggle.com/amritpal333,9,5,113,366,India,Delhi,Delhi,Doctor,Lok nayak hospital
+165,master,ilovescience,https://www.kaggle.com/tanlikesmath,23,31,231,363,United States,California,Sacramento,PhD candidate,UC Davis
+166,master,Sanyam Bhutani,https://www.kaggle.com/init27,31,35,249,363,India,Uttarakhand,Dehradun,Content,H2O.ai & CTDS.Show
+167,expert,Ant 🐜,https://www.kaggle.com/superant,9,22,238,358,Germany,Bavaria,Munich,Data Scientist,Munich
+168,master,Roman,https://www.kaggle.com/nroman,26,28,184,357,Russia,UNKOWN,Saint Petersburg,Data Scientist,okko.tv
+169,expert,Araik Tamazian,https://www.kaggle.com/atamazian,6,9,247,355,Russia,UNKOWN,Saint Petersburg,Kaggler,-
+170,grandmaster,olivier,https://www.kaggle.com/ogrellier,57,68,723,354,France,Brittany,Quimper,Data Scientist,H2O.ai
+171,expert,nvnn,https://www.kaggle.com/nvnnghia,9,13,116,354,Vietnam,Da Nang,Da Nang,UNKOWN,UNKOWN
+172,expert,NikhilMishra,https://www.kaggle.com/nikhilmishradev,10,11,134,353,India,Karnataka,Bengaluru,Data Scientist,Okcredit
+173,expert,Kun Hao Yeh,https://www.kaggle.com/khyeh0719,15,7,107,352,Taiwan,UNKOWN,Hsinchu,Data Scientist,H2O.ai
+174,expert,Sinan Calisir,https://www.kaggle.com/snnclsr,6,15,129,348,Netherlands,North Holland,Amsterdam,Machine Learning Engineer,Revinate
+175,expert,Björn,https://www.kaggle.com/bjoernholzhauer,13,16,223,345,Switzerland,Basel City,Basel,Biostatistician,a pharmaceutical company
+176,expert,Sam Harris,https://www.kaggle.com/sam,19,17,258,345,United States,Washington,Seattle,UNKOWN,UNKOWN
+177,expert,Ahmed Shahriar Sakib,https://www.kaggle.com/ahmedshahriarsakib,4,10,275,344,Bangladesh,Dhaka Division,Dhaka,UNKOWN,UNKOWN
+178,grandmaster,Prashant Banerjee,https://www.kaggle.com/prashant111,51,42,465,342,India,Haryana,Gurugram,Freelance Data Scientist,UNKOWN
+179,expert,Shuhao Cao,https://www.kaggle.com/scaomath,11,17,134,342,United States,Missouri,St. Louis,Copy-pastional Mathematician,Washington University in St. Louis
+180,expert,K_mat,https://www.kaggle.com/kmat2019,5,4,56,342,Japan,Osaka,Osaka,Mechanical Engineer, 
+181,expert,Tong Hui Kang,https://www.kaggle.com/huikang,8,6,92,341,Singapore,UNKOWN,Singapore,Undergraduate,Singapore University of Technology and Design
+182,expert,BEXGBoost,https://www.kaggle.com/bextuychiev,7,11,127,338,Uzbekistan,Andijan region,Andijan,Author,Towards Data Science
+183,expert,dr. Konya,https://www.kaggle.com/sandorkonya,14,4,95,337,Germany,Thuringia,Bad Berka,Radiologist,Zentralklinik
+184,master,Jung,https://www.kaggle.com/ratthachat,23,43,428,336,Thailand,Nakhon Ratchasima,UNKOWN,AI Scientist / Writer,fb.me/thaikeras
+185,expert,YouHan Lee,https://www.kaggle.com/youhanlee,20,26,218,335,South Korea,Gyeonggi-do,Seongnam-si,AI Researcher,Kakaobrain
+186,expert,Rohit Singh,https://www.kaggle.com/rohitsingh9990,14,15,157,335,India,Maharashtra,Pune,Data Scientist,PVKL Tech Services Pvt. Ltd.
+187,expert,Faisal Qureshi,https://www.kaggle.com/mfaisalqureshi,0,0,404,335,Pakistan,Sindh,Karachi,Learner,Home
+188,expert,Rafet Can Kandar,https://www.kaggle.com/rafetcan,0,1,494,332,Turkey,İstanbul,İstanbul,Software Engineering Student,MCBU
+189,expert,vardhan SIRAMDASU,https://www.kaggle.com/vardhansiramdasu,7,6,162,331,India,Andhra Pradesh,Amaravati,CS undergrad,VVIT
+190,expert,Kamogawa_Horumo,https://www.kaggle.com/xia464,17,16,33,328,Japan,Kyoto,Kyoto,office staff,JTC
+191,expert,kurupical,https://www.kaggle.com/kurupical,9,6,47,327,Japan,Kyoto,Kyoto,DataScientist,home
+192,expert,Rishi Damarla,https://www.kaggle.com/rishidamarla,0,14,472,327,Canada,Ontario,Windsor,Student,Academie Ste Cecile International School
+193,master,Xuan Cao,https://www.kaggle.com/naivelamb,32,40,221,326,United States,California,Sunnyvale,Kaggler,Night
+194,expert,DungNB,https://www.kaggle.com/nguyenbadung,6,7,55,325,Vietnam,Hanoi,Hanoi,Machine Learning Engineer,Vingroup Big Data
+195,expert,Ayush Thakur,https://www.kaggle.com/ayuraj,13,4,120,325,India,West Bengal,Kolkata,Machine Learning Engineer,Weights and Biases
+196,expert,Georgii Sirotenko,https://www.kaggle.com/georgiisirotenko,0,2,413,325,Russia,Primorsky Krai,Vladivostok,"Deep Learning, Machine Learning ",School 
+197,master,Mukharbek Organokov,https://www.kaggle.com/muhakabartay,26,47,246,323,France,Île-de-France,Paris,Data Scientist,Kepler-62f
+198,expert,chris,https://www.kaggle.com/chris62,10,8,49,322,United States,Indiana,Indianapolis,developer,myself :)
+199,expert,Sanskar Hasija,https://www.kaggle.com/odins0n,3,7,246,320,India,Maharashtra,Pune,Student,IIIT PUNE
+200,expert,Alex Shonenkov,https://www.kaggle.com/shonenkov,27,19,120,319,Russia,Krasnodar Krai,Adler,Researcher,SberAI
+201,expert,Clear n' Simple,https://www.kaggle.com/jacob34,12,11,113,318,Canada,Ontario,Toronto,Data Scientist,Retalon
+202,expert,Nitesh Yadav,https://www.kaggle.com/niteshyadav3103,0,0,408,318,India,Rajasthan,Neemrana,Student,JECRC University 
+203,expert,zzy,https://www.kaggle.com/zzy990106,6,11,101,317,China,Beijing,Beijing,Master,Peking University
+204,expert,David Roberts,https://www.kaggle.com/davidbroberts,6,20,133,317,United States,West Virginia,Gassaway,Software engineer,UNKOWN
+205,expert,Manas Garg,https://www.kaggle.com/gargmanas,8,10,178,316,India,Rajasthan,Bhilwara,Founder and CEO,Machinaa Technology
+206,expert,John Mitchell,https://www.kaggle.com/jbomitchell,7,12,154,313,United Kingdom,Scotland,St Andrews,Reader in Chemistry,University of St Andrews
+207,expert,Selim Seferbekov,https://www.kaggle.com/selimsef,11,13,69,312,Belarus,Minsk Region,Minsk,Computer Vision Engineer,Mapbox
+208,expert,Stanley Zheng,https://www.kaggle.com/stanleyjzheng,12,18,216,311,Canada,Alberta,Calgary,Software developer,Inferex
+209,expert,KS,https://www.kaggle.com/ks2019,12,20,108,310,India,Maharashtra,Mumbai,Machine Learning Engineer,Jio Saavn
+210,expert,corochann,https://www.kaggle.com/corochann,13,7,272,309,Japan,Tokyo,Tokyo,Engineer,Preferred Networks
+211,expert,Jiashen Liu,https://www.kaggle.com/jiashenliu,4,14,59,309,Netherlands,North Holland,Amsterdam,Data Scientist,Optiver
+212,expert,Nikita Kozodoi,https://www.kaggle.com/kozodoi,9,8,130,305,Germany,Berlin,Berlin,PhD сandidate,HU Berlin
+213,expert,˗ˋˏ 𝙍𝙤𝙗𝙞𝙣 ˎˊ˗,https://www.kaggle.com/heyrobin,3,0,258,305,India,Delhi,New Delhi,Chilling,Home 🏠 
+214,expert,Kishal Mandal,https://www.kaggle.com/kishalmandal,8,8,126,305,India,West Bengal,Kolkata,Data Scientist,Cloudcraftz Solutions Pvt. Ltd.
+215,master,MichaelP,https://www.kaggle.com/datahobbit,23,28,298,303,UNKOWN,UNKOWN,UNKOWN,Data Scientist,UNKOWN
+216,expert,Mohammed Rizin V K,https://www.kaggle.com/morizin,8,5,195,303,India,Kerala,Malappuram,NA,NA
+217,expert,Laurent Pourchot,https://www.kaggle.com/pourchot,7,4,189,303,France,Île-de-France,Paris,UNKOWN,IBM
+218,expert,Sohom Majumder,https://www.kaggle.com/sohommajumder21,3,2,350,301,India,West Bengal,Kolkata,"M.Sc, MBA(Business Analytics)",West Bengal university of Technology
+219,expert,Alin Cijov,https://www.kaggle.com/alincijov,1,7,506,299,Canada,Quebec,Montreal,Machine Learning Engineer,work
+220,expert,Chan Kha Vu,https://www.kaggle.com/chankhavu,11,17,135,298,United States,Washington,Seattle,Software Engineer,Somewhere :)
+221,expert,Kouki,https://www.kaggle.com/kokitanisaka,9,9,177,298,Japan,Nagano,Nagano,Software Engineer,IT Company
+222,expert,bestfitting,https://www.kaggle.com/bestfitting,14,14,125,295,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+223,expert,Janio Martinez Bachmann,https://www.kaggle.com/janiobachmann,5,4,755,295,Germany,Hesse,Frankfurt,Business Analyst,Google
+224,master,Yury Kashnitsky,https://www.kaggle.com/kashnitsky,39,42,245,294,Netherlands,North Holland,Amsterdam,Senior Machine Learning Scientist,Elsevier
+225,expert,Mark Peng,https://www.kaggle.com/markpeng,8,10,75,294,Taiwan,UNKOWN,UNKOWN,Data Scientist,UNKOWN
+226,expert,Vignesh Baskaran,https://www.kaggle.com/vigneshbaskaran,7,4,67,294,Belgium,Brussels,Brussels,Data Scientist,MLwalk
+227,grandmaster,Tilii,https://www.kaggle.com/tilii7,74,126,782,293,United States,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+228,expert,Alexey Pronin,https://www.kaggle.com/graf10a,19,24,334,293,United States,Iowa,Pella,Associate Professor of Physics,Central College
+229,master,Branden Murray,https://www.kaggle.com/brandenkmurray,30,37,234,292,United States,California,UNKOWN,Data Scientist,h2o.ai
+230,expert,sai pavan saketh,https://www.kaggle.com/saipavansaketh,7,4,107,292,India,Tamil Nadu,Chennai,student,Sathyabama university
+231,expert,arutema47,https://www.kaggle.com/kyoshioka47,14,14,96,291,Japan,Tokyo,Tokyo,???,???
+232,expert,IsaiahP,https://www.kaggle.com/pressman1,8,6,64,290,United States,Virginia,Charlottesville,Machine Learning Engineer,UNKOWN
+233,expert,narsil,https://www.kaggle.com/narsil,21,25,136,285,Poland,Masovian Voivodeship,Warsaw,Head of Data Science,AdColony
+234,expert,Ynot,https://www.kaggle.com/songwonho,3,2,100,285,South Korea,Seoul,Seoul,AI Global Residency,UPSTAGE AI
+235,expert,Sameer Patel,https://www.kaggle.com/therealsampat,13,6,229,284,India,Maharashtra,Mumbai,Technology Trainee,RBL Bank
+236,expert,Salman Ibne Eunus,https://www.kaggle.com/salmaneunus,10,8,336,283,Bangladesh,Dhaka Division,Dhaka,Bachelor of Science in Computer science,Brac University
+237,expert,Ludovico Cuoghi,https://www.kaggle.com/ludovicocuoghi,0,1,282,283,Italy,Emilia-Romagna,Parma,Student,Keio University
+238,master,Sergey Bryansky,https://www.kaggle.com/sggpls,18,37,145,280,Russia,UNKOWN,Moscow,Data 💪Wrestler,void*
+239,expert,Kheirallah Samaha,https://www.kaggle.com/khsamaha,0,3,459,280,Lebanon,Beirut Governorate,Beirut,Project Manager,self-employed
+240,expert,Woo Seung Han,https://www.kaggle.com/hadeux,0,1,278,280,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+241,expert,Ishara Neranjana,https://www.kaggle.com/sisharaneranjana,4,1,230,280,Sri Lanka,Western Province,Colombo,Undergraduate | Statistics with Computer science,UOC
+242,expert,Maxwell,https://www.kaggle.com/maxwell110,29,22,87,279,Japan,Tokyo,Tokyo,"Chief Data Scientist, Actuary",AXA HD Japan
+243,expert,Carlos Souza,https://www.kaggle.com/carlossouza,20,20,151,278,Brazil,State of São Paulo,São Paulo,Managing Director,Udacity Brazil
+244,expert,Jonny Lee,https://www.kaggle.com/wuliaokaola,14,19,125,277,Japan,Tokyo,Tokyo,DS,.
+245,expert,Loulou,https://www.kaggle.com/louise2001,18,13,99,277,France,Île-de-France,Paris,Data Science Ambassador,Z by HP
+246,expert,tkm2261,https://www.kaggle.com/tkm2261,14,6,33,276,Japan,UNKOWN,UNKOWN,CS PhD student,UCIrvine
+247,expert,Yash Patel,https://www.kaggle.com/ysthehurricane,4,3,104,276,India,Gujarat,Surat,Data Scientist and AI researcher,Ysthehurricane
+248,expert,Raghawendra Singh,https://www.kaggle.com/raghaw,17,11,111,275,India,Delhi,New Delhi,Senior Research Engineer,CDOT
+249,expert,dataista0 (Julián Peller),https://www.kaggle.com/julian3833,9,4,91,274,Argentina,Buenos Aires,Buenos Aires,Data scientist,Toptal
+250,expert,Andrij,https://www.kaggle.com/aikhmelnytskyy,7,15,97,274,Ukraine,Lviv Oblast,Lviv,Appraiser,Termin
+251,expert,YaGana Sheriff-Hussaini,https://www.kaggle.com/sheriytm,13,31,858,273,United States,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+252,expert,YvonneF,https://www.kaggle.com/yvonnef,3,2,207,272,UNKOWN,UNKOWN,UNKOWN,Scientist , -
+253,expert,Alexander Ryzhkov,https://www.kaggle.com/alexryzhkov,6,7,141,271,Russia,UNKOWN,Moscow,Head of AutoML Team,Sber AI Lab
+254,expert,fergusoci,https://www.kaggle.com/fergusoci,10,17,126,270,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+255,expert,alijs,https://www.kaggle.com/alijs1,26,23,127,270,Latvia,UNKOWN,Riga,Software Architect / Data Scientist,Gravity Team
+256,master,Ravi Chaubey,https://www.kaggle.com/ravichaubey1506,15,35,218,270,India,Rajasthan,Jaipur,Student,Birla Institue of Technology
+257,expert,Ulrich G.,https://www.kaggle.com/ulrich07,11,13,112,268,France,Île-de-France,Palaiseau,Student,ENS-CACHAN & ENSAE Paris-Tech
+258,master,Andres Torrubia,https://www.kaggle.com/antorsae,36,28,201,266,Spain,Valencian Community,Alicante,Competitor,Kaggle
+259,expert,Ertuğrul Demir,https://www.kaggle.com/datafan07,7,4,203,266,Turkey,İstanbul,İstanbul,Human being,Earth
+260,expert,hashmi,https://www.kaggle.com/faaizhashmi,1,1,282,265,UNKOWN,UNKOWN,UNKOWN,Python developer,Upwork
+261,expert,Ata Saygın Odabaşı,https://www.kaggle.com/atasaygin,0,0,324,265,Turkey,İzmir,İzmir,Student,Yasar University
+262,expert,Ken Miller,https://www.kaggle.com/mlconsult,12,9,147,264,United States,Tennessee,Knoxville,Partner & Chief AI Engineer,Erskine Law
+263,expert,Tanay Mehta,https://www.kaggle.com/heyytanay,3,2,338,264,India,Rajasthan,Jaipur,Applied Research Intern,NVIDIA
+264,expert,nofreewill,https://www.kaggle.com/nofreewill,6,9,147,264,Hungary,UNKOWN,Budapest,AI Developer,UNKOWN
+265,expert,Mithil Salunkhe,https://www.kaggle.com/mithilsalunkhe,3,10,110,262,India,Maharashtra,Nanded,None,None
+266,expert,Stefan Kahl,https://www.kaggle.com/stefankahl,14,10,61,261,Germany,Saxony,Chemnitz,Postdoctoral Fellow,Cornell Lab of Ornithology and Chemnitz University of Technology
+267,master,Liao,https://www.kaggle.com/alexanderliao,18,39,187,261,United States,California,San Francisco,Machine Learning Lead,Praxis Pioneering
+268,expert,Ultron,https://www.kaggle.com/mrutyunjaybiswal,11,10,73,261,India,Odisha,Rourkela,Senior Undergad,NIT Rourkela
+269,expert,Silogram,https://www.kaggle.com/psilogram,30,31,87,260,Switzerland,Zurich,Zürich,Freelance data scientist,Self-employed
+270,expert,Optimo,https://www.kaggle.com/optimo,8,15,214,260,France,Île-de-France,Paris,R&D Datascientist,UNKOWN
+271,expert,Yaroslav Isaienkov,https://www.kaggle.com/ihelon,8,7,159,259,Ukraine,Vinnytsia Oblast,Vinnytsia,Data Scientist,Onseo
+272,expert,Somayyeh Gholami,https://www.kaggle.com/somayyehgholami,7,6,109,258,Belgium,Brussels,Brussels,Student of Health Data Science(Ms),VUB university
+273,expert,SeaBreeze,https://www.kaggle.com/seabreeze,2,7,270,257,United States,UNKOWN,UNKOWN,None,None
+274,expert,Fractal Feelings,https://www.kaggle.com/kevinmcisaac,4,12,62,257,Australia,Western Australia,Perth,"Manager, Data and Analytics",Deloitte
+275,expert,Kerem Turgutlu,https://www.kaggle.com/keremt,15,13,138,257,United States,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+276,expert,Tim Yee,https://www.kaggle.com/teeyee314,13,15,263,257,United States,New York,New York,UNKOWN,UNKOWN
+277,expert,Rishi Patel,https://www.kaggle.com/patelris,4,5,203,257,India,Gujarat,Ahmedabad,Student,LDRP-Institute Of Technology & Research
+278,expert,Subin An,https://www.kaggle.com/subinium,7,6,313,256,South Korea,Seoul,Seoul,HCI Lab,Seoul National Univ.
+279,expert,Towhidul.Tonmoy,https://www.kaggle.com/towhidultonmoy,4,5,113,254,Bangladesh,Chittagong Division,Cumilla,Final Year Undergraduate Student,Islamic University Of Technology
+280,expert,Anshi Gupta,https://www.kaggle.com/anshigupta01,1,1,326,253,India,Rajasthan,Jaipur,B.Tech Student,Jecrc University
+281,expert,Hiram Coria 🧬,https://www.kaggle.com/hiramcho,7,14,166,252,Mexico,Guerrero,Acapulco,Student,Universidad Autónoma Metropolitana
+282,expert,Black Knight,https://www.kaggle.com/sayedathar11,9,12,129,250,India,Maharashtra,Mumbai,AI / ML Engineer,Direction Software Solutions
+283,expert,Ioannis M,https://www.kaggle.com/imeintanis,6,11,195,249,Greece,UNKOWN,Athens,Data Scientist,CORE-INNOVATION
+284,expert,shinmura0,https://www.kaggle.com/shinmurashinmura,11,5,42,249,Japan,Nagano,Nagano,Anomaly detection engineer,Industrial field
+285,expert,sakami,https://www.kaggle.com/sakami,13,6,59,247,Japan,Tokyo,Tokyo,Data Scientist,DeNA
+286,expert,something4kag,https://www.kaggle.com/something4kag,3,13,274,246,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+287,expert,Aayush Kumar Singha,https://www.kaggle.com/aayush26,6,4,70,246,India,Assam,Guwahati,Software Engineer II,Amazon
+288,expert,Oleg Yaroshevskiy,https://www.kaggle.com/yaroshevskiy,18,27,122,244,Ukraine,UNKOWN,Kyiv,Data Scientist,Stealth Mode Startup
+289,expert,leo,https://www.kaggle.com/calibrator,6,13,59,243,Australia,Victoria,Melbourne,Overfitter,UNKOWN
+290,expert,fedesoriano,https://www.kaggle.com/fedesoriano,1,5,249,243,Spain,Community of Madrid,Madrid,Data Scientist,Kaggle
+291,expert,hirune924,https://www.kaggle.com/hirune924,14,9,53,242,Japan,Kanagawa,Yokohama,Researcher,NSSOL
+292,expert,Taaha Khan,https://www.kaggle.com/taahakhan,7,12,174,242,United States,Oregon,Portland,Student,School
+293,expert,Moore,https://www.kaggle.com/imoore,11,14,156,242,Russia,UNKOWN,Moscow,Data scientist,Kertoft
+294,master,Manoj,https://www.kaggle.com/mks2192,20,33,307,241,India,Karnataka,Bengaluru,Data Science,ABB
+295,expert,Vitalii Mokin,https://www.kaggle.com/vbmokin,10,22,265,238,Ukraine,Vinnytsia Oblast,Vinnytsia,Professor,Vinnytsia National Technical University
+296,expert,Xie29,https://www.kaggle.com/xiejialun,10,12,170,238,Taiwan,UNKOWN,Taipei,.,.
+297,expert,Vipin Kumar,https://www.kaggle.com/vipin20,1,3,273,238,India,Uttar Pradesh,Bareilly,Student,Galgotias College of engineering Noida
+298,expert,Aditi Mulye,https://www.kaggle.com/aditimulye,0,1,312,237,United States,Indiana,Bloomington,MS in Data Science,Indiana University
+299,master,Yifan Xie,https://www.kaggle.com/yifanxie,31,52,253,236,United Kingdom,England,Bristol,Data Scientist,Arion.ai
+300,expert,Bowaka,https://www.kaggle.com/bowaka,13,6,98,236,France,Île-de-France,Paris,Data scientist,Kayrros
+301,expert,James McGuigan,https://www.kaggle.com/jamesmcguigan,4,16,220,235,United Kingdom,England,London,Enrichment Specialist,Rolls Royce
+302,expert,mavillan,https://www.kaggle.com/mavillan,12,11,57,234,Chile,Valparaíso,Valparaíso,Software Engineer,NULL
+303,expert,Raahul Saxena,https://www.kaggle.com/raahulsaxena,5,6,128,234,India,Karnataka,Bengaluru,Analytics Manager,EXL
+304,expert,A SURESH,https://www.kaggle.com/sureshmecad,2,5,269,231,India,Karnataka,Bengaluru,Design Engineer (Automotive),ASM Technologies
+305,expert,ammarali32,https://www.kaggle.com/ammarali32,6,3,82,229,Russia,UNKOWN,Saint Petersburg,Programmer,ITMO university
+306,master,Vladimir Iglovikov,https://www.kaggle.com/iglovikov,50,24,177,228,United States,California,San Francisco,Staff Computer Vision Engineer,"Level5 Engineering Center, Lyft Inc"
+307,master,cyberia,https://www.kaggle.com/cyberia,24,36,174,228,Ireland,County Dublin,Dublin,Data Scientist,...
+308,expert,kailai,https://www.kaggle.com/kailai,2,4,180,228,United States,Pennsylvania,Philadelphia,UNKOWN,UNKOWN
+309,expert,senkin13,https://www.kaggle.com/senkin13,14,9,91,227,Japan,Tokyo,Tokyo,Data Scientist,DataRobot Japan
+310,expert,tugstugi,https://www.kaggle.com/tugstugi,8,7,101,226,Germany,Berlin,Berlin,UNKOWN,Берлиний Техникийн Их Сургууль
+311,expert,marketneutral,https://www.kaggle.com/marketneutral,12,19,183,226,United States,New York,New York,Learning,everywhere I can
+312,expert,Harsh Jain,https://www.kaggle.com/harshjain123,1,4,249,226,India,Tamil Nadu,Chennai,Student,Anna University
+313,expert,JeongBin Park,https://www.kaggle.com/jeongbinpark,0,0,293,226,South Korea,Incheon,Incheon,Undergraduate,Sejong University
+314,master,Dmitriy Guller,https://www.kaggle.com/dmitriyguller,18,65,277,224,United States,UNKOWN,UNKOWN,Actuary,UNKOWN
+315,expert,YujiAriyasu,https://www.kaggle.com/yujiariyasu,9,3,55,224,Japan,Tokyo,Tokyo,Data Scientist,Aillis Inc.
+316,expert,kushal Agrawal,https://www.kaggle.com/kushal1506,6,4,125,224,India,Uttar Pradesh,Lucknow,Student,Institute of Engineering and Technology 
+317,expert,Hamza,https://www.kaggle.com/hamzaghanmi,5,4,166,223,Tunisia,Bizerte,Bizerte,Computer Science Engineer,.
+318,expert,rajattomar132,https://www.kaggle.com/rajattomar132,3,4,97,222,India,Delhi,Delhi,Student,Chandigarh University
+319,master,James Trotman,https://www.kaggle.com/jtrotman,20,31,215,221,United Kingdom,England,UNKOWN,UNKOWN,UNKOWN
+320,expert,yuricat,https://www.kaggle.com/yuricat,4,7,93,221,Japan,Oita,Oita,AI Technology Advisor,quantum
+321,expert,Aryan Tiwari,https://www.kaggle.com/aryantiwari123,0,0,268,221,India,Rajasthan,Jaipur,B.Tech Student (CS),SRM UNIVERSITY
+322,expert,tpmeli,https://www.kaggle.com/tpmeli,13,4,107,220,United States,North Carolina,Raleigh,Data Science Instructor,2U
+323,expert,James Howard,https://www.kaggle.com/jamesphoward,10,22,79,220,United Kingdom,England,London,Cardiologist,Imperial College London
+324,expert,Ritesh Yadav,https://www.kaggle.com/ritesh2000,1,2,343,220,India,Uttar Pradesh,Kanpur,Junior Data Scientist,Ineuron.ai
+325,expert,Nadia Nizam,https://www.kaggle.com/nadianizam,0,1,255,219,Pakistan,Sindh,Karachi,Banker,UBL
+326,expert,Rishiraj Acharya,https://www.kaggle.com/rishirajacharya,4,3,53,218,India,West Bengal,Kolkata,Machine Learning Engineer,Dynopii Inc.
+327,expert,Miroslav Valan,https://www.kaggle.com/valanm,11,14,189,218,Sweden,Stockholm County,Stockholm,veterinarian,UNKOWN
+328,expert,kuto,https://www.kaggle.com/kuto0633,10,3,51,218,Japan,Kanagawa,Yokohama,Researcher,japanese company
+329,expert,daishu,https://www.kaggle.com/daishu,17,10,88,217,China,Fujian,Xiamen,Exploring neural networks,UNKOWN
+330,expert,Dmytro Danevskyi,https://www.kaggle.com/ddanevskyi,24,25,102,216,Ukraine,UNKOWN,Kyiv,Data Scientist,UNKOWN
+331,expert,Yih-Dar SHIEH,https://www.kaggle.com/yihdarshieh,7,23,183,216,France,Île-de-France,Paris,Data Scientist,Biggerpan
+332,expert,Rithik Kotha,https://www.kaggle.com/rithikkotha,0,0,251,215,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+333,expert,Iman Jowkar,https://www.kaggle.com/imanjowkar,1,2,213,215,Afghanistan,Bamyan,Iraq,Data Analysts,UNKOWN
+334,expert,Amin,https://www.kaggle.com/amiiiney,7,11,157,214,Germany,Baden-Württemberg,Heidelberg,-,-
+335,expert,Saurav Anand,https://www.kaggle.com/saurav9786,6,14,405,213,Netherlands,North Holland,Amsterdam,Engineer,XXX
+336,master,Ouassim Adnane,https://www.kaggle.com/ishivinal,23,38,262,212,Morocco,Casablanca-Settat,Casablanca,Looking for new opportunities,Casablanca
+337,expert,higepon,https://www.kaggle.com/higepon,14,5,111,212,Japan,Tokyo,Tokyo,Software Engineer,Tech company
+338,expert,Parul Pandey,https://www.kaggle.com/parulpandey,8,26,144,211,India,Telangana,Hyderabad,Data Science ,H2O.ai
+339,expert,Shahrayar,https://www.kaggle.com/muhammadshahrayar,1,0,220,211,Pakistan,Islamabad Capital Territory,Islamabad,Data Scientist,Freelancing
+340,expert,Carrie CH,https://www.kaggle.com/carriech,0,0,215,210,Taiwan,UNKOWN,Taipei,UNKOWN,UNKOWN
+341,expert,Craig Thomas,https://www.kaggle.com/craigmthomas,3,8,124,209,Canada,Ontario,Ottawa,Machine Learning and Data Scientist,None
+342,expert,Ankit Kalauni,https://www.kaggle.com/ankitkalauni,5,1,113,208,India,Maharashtra,Mumbai,Student,Kaggle
+343,expert,Radmir Zosimov,https://www.kaggle.com/hijest,3,1,128,207,Russia,UNKOWN,Moscow,Follower,dspyt
+344,expert,Mohammad Essam,https://www.kaggle.com/mohammedessam97,3,20,202,206,Egypt,Cairo Governorate,Cairo,Research Assistant,Ain Shams University
+345,expert,Caesar Lupum,https://www.kaggle.com/caesarlupum,8,13,507,206,Brazil,State of Ceará,Fortaleza,Data Scientist,Datarisk
+346,master,AmirH,https://www.kaggle.com/tpthegreat,32,31,236,205,Israel,Center District,Even Yehuda,BI Analyst,Excelando
+347,expert,katsu1110,https://www.kaggle.com/code1110,9,4,128,204,Japan,Tokyo,Tokyo,sitting on a chair,home
+348,expert,Zohaib Ahmed,https://www.kaggle.com/zohaib123,0,4,315,204,Pakistan,Sindh,Nawabshah,Student,Quaid-e-awam university of engineering science and technology
+349,expert,Thomas Konstantin,https://www.kaggle.com/thomaskonstantin,1,8,300,204,Israel,Tel Aviv District,Tel Aviv-Yafo,Data Scientist,Altooro
+350,expert,u++,https://www.kaggle.com/sishihara,17,13,118,203,Japan,Tokyo,Tokyo,Data Scientist,a media company
+351,expert,Tarek Hamdi,https://www.kaggle.com/hamditarek,12,8,205,202,Finland,UNKOWN,Helsinki,Data Scientist,Huawei
+352,expert,Deep Learner,https://www.kaggle.com/readoc,4,8,56,201,UNKOWN,UNKOWN,UNKOWN,Looking for a Job,Anywhere remote
+353,expert,Puru Behl,https://www.kaggle.com/accountstatus,0,2,342,200,India,Delhi,Delhi,Student,Northcap University
+354,expert,Madhan Chandrasekharan,https://www.kaggle.com/gcmadhan,0,0,269,200,India,Tamil Nadu,Chennai,Data Analyst,Tek Systems
+355,expert,Alexander Soare,https://www.kaggle.com/alexandersoare,10,14,104,199,United Kingdom,England,London,Computer Vision and Deep Learning,Consultant
+356,expert,Saurav Maheshkar ☕️,https://www.kaggle.com/sauravmaheshkar,8,7,60,197,India,Delhi,New Delhi,Growth ML Engineer,Weights and Biases
+357,expert,Gaurav Rajesh Sahani,https://www.kaggle.com/gauravsahani,5,21,137,197,India,Maharashtra,Thane,Data Analyst,eClerx
+358,expert,Akash Patel,https://www.kaggle.com/imakash3011,2,2,162,197,India,Uttar Pradesh,Greater Noida,Machine Learning Intern,Estylo
+359,expert,bluetrain,https://www.kaggle.com/stecasasso,15,21,172,195,Switzerland,Geneva,Geneva,Data Scientist,Expedia Group
+360,master,Konstantin Lopuhin,https://www.kaggle.com/lopuhin,33,48,242,194,Russia,UNKOWN,Moscow,Software engineer,Scrapinghub
+361,expert,toshi_k,https://www.kaggle.com/toshik,18,22,233,194,Japan,Kanagawa,Yokohama,Data Scientist,UNKOWN
+362,expert,Martin Görner,https://www.kaggle.com/mgornergoogle,6,22,210,194,United States,Washington,Seattle,UNKOWN,UNKOWN
+363,expert,Tucker Arrants,https://www.kaggle.com/tuckerarrants,5,12,87,194,United States,Florida,Tampa,Data Scientist,Z by HP
+364,expert,Dewei Chen,https://www.kaggle.com/dwchen,11,8,96,192,China,Beijing,Beijing,Working,China Mobile Research Ins.
+365,expert,Jagadish Sivakumar,https://www.kaggle.com/jagadish13,5,6,235,192,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+366,expert,quadcore/Richard Epstein,https://www.kaggle.com/richardepstein,6,16,214,191,UNKOWN,UNKOWN,UNKOWN,Chief Medical Information Officer,UNKOWN
+367,master,Joe Eddy,https://www.kaggle.com/aquatic,34,45,164,191,United States,New York,New York,Senior Data Scientist,Metis
+368,expert,CepheidQ,https://www.kaggle.com/cepheidq,3,7,107,190,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+369,expert,Miloud Belarebia,https://www.kaggle.com/milobele,6,9,165,190,France,Île-de-France,Paris,Data Scientist,B&D
+370,expert,Mehmet Akturk,https://www.kaggle.com/mathchi,1,8,185,190,Netherlands,South Holland,Rotterdam,Conversational AI (NLP) Specialist at Achmea | Ph.D. | Data Scientist | AI & Data Science & Machine Learning Instructor,PyCoders
+371,expert,Shujun,https://www.kaggle.com/shujun717,9,3,106,189,United States,Texas,College Station,PhD student,Texas A&M University
+372,expert,Fares Sayah,https://www.kaggle.com/faressayah,11,18,254,189,Algeria,Sétif Province,Setif,_Freelance_Data_Scientist,_____
+373,expert,Mark Wijkhuizen,https://www.kaggle.com/markwijkhuizen,10,7,69,189,Netherlands,Gelderland,Nijmegen,Student,Radboud University
+374,expert,Moein Shariatnia,https://www.kaggle.com/moeinshariatnia,7,4,81,188,Turkey,İstanbul,İstanbul,Medical Student / ML engineer,TU
+375,expert,Abheeshth Mishra,https://www.kaggle.com/abheeshthmishra,14,8,128,185,India,Uttar Pradesh,Lucknow,Student,"International institute of information technology , Naya Raipur "
+376,expert,Jillani Soft Tech,https://www.kaggle.com/jillanisofttech,1,3,101,185,Pakistan,Punjab,Lahore,Machine Learning and Data Scientist, The Spark Foundation
+377,expert,Ren,https://www.kaggle.com/ryanzhang,4,21,166,184,United States,Massachusetts,Westford,Man,Work
+378,expert,sheep,https://www.kaggle.com/steamedsheep,5,12,75,184,China,Guangdong Province,Guangzhou,^ ^,403
+379,expert,Riad,https://www.kaggle.com/riadalmadani,3,4,78,184,Iraq,Najaf Governorate,Najaf,Electrical Engineer,University of Kufa
+380,expert,Zeus,https://www.kaggle.com/utkarshxy,1,3,284,184,Greece,UNKOWN,Athens,UNKOWN,                                    
+381,master,anokas,https://www.kaggle.com/anokas,41,60,289,183,United Kingdom,England,Guildford,Mikel Bober-Irizar,UNKOWN
+382,expert,SeshuRajuP 🧘‍♂️,https://www.kaggle.com/seshurajup,12,16,164,183,India,Telangana,Hyderabad,Senior Engineering Manager,Dolcera
+383,expert,Andy,https://www.kaggle.com/andy1010,5,4,93,183,United States,Washington,Redmond,Student,School
+384,expert,Vetrivel-PS,https://www.kaggle.com/vetrirah,6,2,94,182,India,Tamil Nadu,Chennai,ML Engineer,EY
+385,expert,arnab,https://www.kaggle.com/arnabbiswas1,6,16,141,181,India,Karnataka,Bengaluru,ML Architect,Carrier Global Corporation
+386,expert,Shangqiu Li,https://www.kaggle.com/unkownhihi,9,10,236,181,United States,Washington,Vancouver,Learning Deep,Kaggle
+387,expert,shivan kumar,https://www.kaggle.com/shivan118,8,18,186,181,India,Karnataka,Bengaluru,Jr. Data Scientist,iNeuron
+388,expert,Jyot Makadiya,https://www.kaggle.com/jyotmakadiya,4,2,157,181,India,Gujarat,Ahmedabad,Student,Nirma University
+389,expert,Ctrl_CV,https://www.kaggle.com/guohey,4,4,50,181,China,Shaanxi,Xi'an,Master Student,JIALIDUN
+390,expert,datajameson,https://www.kaggle.com/datajameson,1,1,284,181,India,Maharashtra,Mumbai,MS in Machine Learning and AI,Liverpool John Moores University
+391,master,Peter Hurford,https://www.kaggle.com/peterhurford,28,43,301,180,United States,California,Redwood City,Software Engineer,DataRobot
+392,expert,Yiheng (Venn) Wang,https://www.kaggle.com/yiheng,26,27,138,180,China,Shanghai,Shanghai,Engineer,Nvidia
+393,expert,Alien,https://www.kaggle.com/h053473666,6,5,55,180,Taiwan,UNKOWN,Taipei,None,None
+394,master,ZFTurbo,https://www.kaggle.com/zfturbo,27,26,160,179,Russia,UNKOWN,Moscow,UNKOWN,IPPM RAS
+395,expert,Jacek Poplawski,https://www.kaggle.com/jacekpoplawski,9,20,350,178,Poland,Lower Silesian Voivodeship,Wrocław,programmer,Siili
+396,expert,Amed,https://www.kaggle.com/amedprof,9,6,66,178,France,Île-de-France,Paris,Data Science Ambassador,Z by HP
+397,expert,Hamdalla F. Kareem,https://www.kaggle.com/hamdallak,3,9,56,178,Iraq,Baghdad Governorate,Baghdad,Lecturer,Wasit University
+398,expert,Kamal007,https://www.kaggle.com/kamal007,5,6,71,177,India,Karnataka,Bengaluru,Co-founder & Partner,Accelerate AI
+399,expert,Signal,https://www.kaggle.com/brianfeeny,7,12,132,176,United States,Florida,Royal Palm Beach,Manager of Data Science and AI,Nextera
+400,expert,Nikhil John,https://www.kaggle.com/nikhiljohnk,4,7,139,176,India,Maharashtra,Pune,Associate Data Science Intern,Discover Dollar
+401,expert,Munum Butt,https://www.kaggle.com/munumbutt,1,8,70,176,United Kingdom,England,London,Quantitative Finance,Cass Business School
+402,expert,kanberburak,https://www.kaggle.com/kanberburak,0,0,170,176,Turkey,Eskişehir,Eskişehir,Data Scientist,Upwork
+403,expert,Dmytro Poplavskiy,https://www.kaggle.com/dmytropoplavskiy,12,19,66,174,Australia,Queensland,Brisbane,Software Engineer,Topcon Positioning Systems
+404,expert,chumajin,https://www.kaggle.com/chumajin,5,2,87,174,Japan,Tokyo,Tokyo,Engineer,Japanese Company
+405,expert,Dhruvil Dave,https://www.kaggle.com/dhruvildave,2,8,142,174,India,Gujarat,Ahmedabad,Student,Ahmedabad University
+406,expert,vad13irt,https://www.kaggle.com/vad13irt,5,4,81,174,Ukraine,Dnipropetrovsk Oblast,Dnipro,Junior Data Scientist,Home
+407,expert,GreatGameDota,https://www.kaggle.com/greatgamedota,14,13,165,173,United States,Illinois,Chicago,Undergrad,College
+408,expert,Miguel Quiceno,https://www.kaggle.com/miguelquiceno,3,1,80,173,Colombia,Antioquia,Medellín,Computer Science Student,Universidad Nacional de Colombia
+409,expert,Fahad Mehfooz,https://www.kaggle.com/fahadmehfoooz,0,1,227,173,India,Delhi,Delhi,Software Engineer,TCS
+410,expert,tereka,https://www.kaggle.com/tereka,8,17,39,172,Japan,Kanagawa,Yokohama,Data Scientist,Acroquest Technology Co. Ltd.
+411,expert,Laura Fink,https://www.kaggle.com/allunia,3,12,109,171,Germany,North Rhine-Westphalia,Cologne,Data Scientist,Micromata
+412,expert,Yogita Darade,https://www.kaggle.com/yogidsba,1,3,178,171,United States,Texas,Houston,Data Science student,UT Austin
+413,expert,Mingjie Wang,https://www.kaggle.com/xiaowangiiiii,5,2,86,170,China,Guangdong Province,Zhuhai, Mphil, UIC
+414,expert,Ekrem Bayar,https://www.kaggle.com/ekrembayar,2,1,408,169,Turkey,Istanbul,İstanbul,Data Scientist,SabancıDx
+415,expert,DatNT,https://www.kaggle.com/moewie94,8,7,78,169,Vietnam,Hanoi,Hanoi,Comp Vision Researcher,Vingroup Big Data Institute
+416,expert,Zacchaeus,https://www.kaggle.com/zacchaeus,4,4,81,169,China,Shanghai,Shanghai,Student,NYU Shanghai
+417,expert,Luca Basanisi,https://www.kaggle.com/lucabasa,4,12,330,168,Netherlands,South Holland,Rotterdam,Lead Data Scientist,Nielsen
+418,expert,Michał Choiński,https://www.kaggle.com/mikecho,3,9,52,168,Spain,Catalonia,Barcelona,Deep Learning Engineer,UNKOWN
+419,expert,Vinayak Shanawad,https://www.kaggle.com/vinayakshanawad,1,4,159,168,India,Karnataka,Bengaluru,Data Scientist,Accrete AI
+420,expert,Akmal Mir,https://www.kaggle.com/akmalmir,1,6,87,167,Uzbekistan,Tashkent Region,Tashkent,Data Analytics,Group of Comp.
+421,expert,Arjun Prasad Sarkhel,https://www.kaggle.com/arjunprasadsarkhel,2,0,65,167,India,West Bengal,Kolkata,UNKOWN,UNKOWN
+422,expert,Jehan Bhathena,https://www.kaggle.com/jehanbhathena,7,2,42,167,Kuwait,Al Asimah Governate,Kuwait City,Student,VIT Vellore
+423,expert,Ashish Gupta,https://www.kaggle.com/roydatascience,12,15,191,166,Canada,Ontario,Toronto,Data Scientist,Scotiabank
+424,expert,dragon zhang,https://www.kaggle.com/dragonzhang,0,7,97,166,China,Beijing,Beijing,freelancer,Dragon AI
+425,expert,Simon Crase,https://www.kaggle.com/weka511,2,6,124,165,New Zealand,Tasman,Hope,Software Engineer,Greenweaves Software Limited
+426,expert,Jie Wu,https://www.kaggle.com/lftuwujie,11,13,170,164,United Kingdom,England,London,Lead Data Scientist,Starcom
+427,expert,Harshit Sheoran,https://www.kaggle.com/harshitsheoran,6,5,121,164,India,Haryana,Rohtak,Student,Goldsmiths University of London
+428,expert,Brenda N,https://www.kaggle.com/brendan45774,1,1,235,164,United States,Florida,Florida City,A girl,BörkaPanda
+429,expert,Manh Lab,https://www.kaggle.com/doanquanvietnamca,11,7,116,164,Russia,UNKOWN,Saint Petersburg,Slytherin,Hogwarts
+430,expert,BHARTI PRASAD,https://www.kaggle.com/bhartiprasad17,0,0,253,164,India,Uttar Pradesh,Lucknow,Intern,Indian School of Business
+431,expert,RB,https://www.kaggle.com/rashmibanthia,10,8,112,163,United States,Georgia,Atlanta,UNKOWN,UNKOWN
+432,expert,Kaushal Shah,https://www.kaggle.com/kaushal2896,7,12,145,163,India,Gujarat,Ahmedabad,B. Tech,Nirma University
+433,expert,Amol Ambkar,https://www.kaggle.com/amolambkar,0,3,248,163,India,Maharashtra,Navi Mumbai,Computer Engineering Student,"Dr.Babasaheb Ambedkar Technological University , Lonere , Maharashtra"
+434,expert,Yasir Hussein Shakir,https://www.kaggle.com/yasserhessein,0,1,218,163,Malaysia,Selangor,Petaling Jaya,University Tenaga Nasional,UNITEN
+435,expert,Kannan Ravinther,https://www.kaggle.com/kannan1314,3,4,99,162,Malaysia,Putrajaya,Putrajaya,Kaggle Master in 12/2021,Home
+436,expert,somuSan,https://www.kaggle.com/soumya9977,5,2,70,162,India,West Bengal,Kolkata,Looser,Kaggle
+437,expert,Krish Yadav,https://www.kaggle.com/keagle,1,4,99,162,India,Maharashtra,Nagpur,Student,Scholars Convent
+438,expert,Sidharth Kumar Mohanty,https://www.kaggle.com/sidharth178,4,0,54,162,India,Odisha,Bhubaneswar,Data Science Intern ,Exposys Data Lab 
+439,expert,XingJian Lyu,https://www.kaggle.com/roguekk007,13,13,98,161,China,Shanghai,Shanghai,Rising Freshman,Harvard
+440,expert,Sayantan Mazumdar,https://www.kaggle.com/swaralipibose,2,6,68,161,India,West Bengal,Durgapur,None,None
+441,expert,Edrick Kesuma,https://www.kaggle.com/edrickkesuma,2,8,78,161,Indonesia,Jakarta,Jakarta,Student,Life
+442,expert,miguel perez,https://www.kaggle.com/miguelpm,11,17,129,160,Spain,Basque Country,Vitoria-Gasteiz,UNKOWN,UNKOWN
+443,expert,Massoud Hosseinali,https://www.kaggle.com/mhviraf,17,19,225,160,United States,Utah,Salt Lake City,Machine Learning Engineer,Galileo
+444,expert,Atharva Ingle,https://www.kaggle.com/atharvaingle,4,7,99,160,India,Maharashtra,Pune,Student,Vishwakarma Institute of Technology
+445,expert,Igal Bronshtein,https://www.kaggle.com/igalbronshtein,0,3,170,160,Israel,Tel Aviv District,Tel Aviv-Yafo,"HCI Researcher, Software Developer",UNKOWN
+446,expert,Vaske93,https://www.kaggle.com/vaske93,1,6,106,159,Serbia,UNKOWN,Belgrade,Student,University
+447,expert,Vikas Ukani,https://www.kaggle.com/vikasukani,2,8,244,159,India,Gujarat,Surat,Full-Stack Web App Developer,Information Technology
+448,expert,Lindada,https://www.kaggle.com/a763337092,8,4,52,158,China,Beijing,Beijing,Master degree graduates,Tsinghua University
+449,expert,LongYin/杰少,https://www.kaggle.com/longyin2,9,14,282,158,China,Jiangsu,Nanjing,Search Algo/Quant,Alibaba/Home
+450,expert,tomoo inubushi,https://www.kaggle.com/tomooinubushi,4,7,73,158,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+451,expert,Dmitrij Kozachuk,https://www.kaggle.com/koza4ukdmitrij,12,9,114,157,Russia,UNKOWN,Moscow,Analyst,Yandex
+452,expert,Manikanth Reddy,https://www.kaggle.com/manikanthr5,5,7,70,157,India,Karnataka,Bengaluru,Machine Learning Engineer,Bloomreach
+453,master,SRK,https://www.kaggle.com/sudalairajkumar,29,32,217,156,India,Tamil Nadu,Chennai,Data Scientist,UNKOWN
+454,expert,Benjamin Minixhofer,https://www.kaggle.com/bminixhofer,9,16,98,156,Austria,Upper Austria,Linz,Studying AI,JKU Linz
+455,expert,Appian,https://www.kaggle.com/appian,15,13,104,156,Japan,Kanagawa,Kamakura,Software Engineer,UNKOWN
+456,expert,Bala Baskar,https://www.kaggle.com/balabaskar,4,1,104,156,India,Tamil Nadu,Chennai,Data Scientist,Blackstraw.AI
+457,expert,Kire,https://www.kaggle.com/snippsy,3,5,153,155,Norway,Oslo,Oslo,Data Scientist,NORSAR
+458,expert,Gajendra Saraswat,https://www.kaggle.com/sarques,1,11,267,155,India,Rajasthan,Bikaner,Sleeping,Home
+459,expert,Chien-Hsiang Hung,https://www.kaggle.com/chienhsianghung,4,1,82,155,Taiwan,UNKOWN,Taipei,Information Technology Manager,Wisdom Asset Management
+460,expert,Alexander Bader,https://www.kaggle.com/alexanderbader,0,2,172,155,Germany,Baden-Württemberg,Heidelberg,NPC,Life
+461,expert,mysar ahmad bhat,https://www.kaggle.com/mysarahmadbhat,0,0,213,155,India,Telangana,Hyderabad,student,ptu
+462,expert,Radek Osmulski,https://www.kaggle.com/radek1,19,14,70,154,Poland,Lódz Voivodeship,Łódź,AI Research Engineer,The Earth Species Project
+463,expert,Bill Cruise,https://www.kaggle.com/bcruise,0,5,96,154,United States,North Carolina,Charlotte,Software Developer,Bank of America
+464,expert,NoLogic,https://www.kaggle.com/veeralakrishna,0,9,560,154,India,Karnataka,Bengaluru,Data Scientist,NA
+465,expert,Firas Baba,https://www.kaggle.com/rinnqd,15,17,84,153,Norway,Rogaland,Stavanger,Machine Learning Engineer,boost.ai
+466,expert,Markus,https://www.kaggle.com/friedchips,11,10,62,153,Germany,Baden-Württemberg,Karlsruhe,Human,FriedChips.de
+467,expert,🌵,https://www.kaggle.com/frankmollard,1,9,196,153,Germany,Hesse,Frankfurt,Data Scientist,Home
+468,expert,Mau Rua,https://www.kaggle.com/mruanova,1,2,220,153,United States,Illinois,Chicago, Lead Software Engineer,mruanova
+469,expert,Minh Tri Phan,https://www.kaggle.com/shinomoriaoshi,3,5,86,152,Switzerland,St. Gallen,St. Gallen,Research Assistant,University of St.Gallen
+470,expert,Hannes Öhler,https://www.kaggle.com/hannes82,2,7,101,152,Germany,North Rhine-Westphalia,Bonn,Researcher and Data Scientist,German Development Institute
+471,expert,Jun Hyeok Park,https://www.kaggle.com/junhyeok99,2,5,89,152,South Korea,Busan,Busan,student,UNKOWN
+472,expert,stefan schulmeister,https://www.kaggle.com/stefanschulmeister87,1,2,136,152,Switzerland,Zurich,Zürich,UNKOWN,UNKOWN
+473,expert,dott,https://www.kaggle.com/dott1718,8,15,56,151,Austria,Vienna,Vienna,Senior Data Scientist,H2O.ai
+474,expert,Susant_Achary🎲,https://www.kaggle.com/susant4learning,0,2,206,151,India,Karnataka,Bengaluru,ML Engineer ⚗️,Allstate
+475,expert,Nick Kuzmenkov,https://www.kaggle.com/nickuzmenkov,7,7,72,151,Russia,UNKOWN,Moscow,Junior Data Scientist,SRG
+476,expert,Christoffer Karlsson,https://www.kaggle.com/christoffer,2,14,118,150,Sweden,Skåne County,Malmö,Consultant,(Independent)
+477,expert,Max Halford,https://www.kaggle.com/maxhalford,13,15,108,150,France,Île-de-France,Paris,PhD student,IRIT/IMT
+478,expert,RNA,https://www.kaggle.com/bigironsphere,11,16,169,150,United Kingdom,England,Reading,Data Scientist,UNKOWN
+479,expert,Carlo Lepelaars,https://www.kaggle.com/carlolepelaars,9,12,359,150,Netherlands,North Brabant,Eindhoven,Data Science,CrowdCent
+480,expert,Harveen Singh Chadha,https://www.kaggle.com/harveenchadha,4,10,84,149,India,Karnataka,Bengaluru,Data Scientist,Thoughtworks
+481,expert,SDSTony,https://www.kaggle.com/jiny333,2,3,101,149,South Korea,Gyeonggi-do,Suwon-si,100su,my house
+482,expert,Ryo Matsuzaka,https://www.kaggle.com/osamurai,2,10,42,149,Japan,Tokyo,Minato City,Machine learning Engineer,Arithmer
+483,expert,shoku-pan,https://www.kaggle.com/yhirakawa,7,7,50,149,Japan,Tokyo,Tokyo,engineer,asken.inc
+484,expert,Rajat Gupta,https://www.kaggle.com/rajat95gupta,1,4,101,149,India,Rajasthan,Jaipur,Data Scientist ,Walmart Labs
+485,expert,Srinidhi,https://www.kaggle.com/ggsri123,2,5,81,148,UNKOWN,UNKOWN,UNKOWN,Data Science Intern,VuNet Systems
+486,expert,Jeong-Yoon Lee,https://www.kaggle.com/jeongyoonlee,9,18,83,147,United States,California,Los Angeles,Sr. Research Scientist,Netflix
+487,expert,Neil Slater,https://www.kaggle.com/slobo777,9,40,418,147,United Kingdom,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+488,expert,Jorijn Jacko Smit,https://www.kaggle.com/jorijnsmit,3,8,148,147,Netherlands,Utrecht,Utrecht,Business Intelligence & Data Science,Gosuto
+489,expert,Salman,https://www.kaggle.com/micheomaano,5,8,70,146,Pakistan,Islamabad Capital Territory,Islamabad,Senior Data Scientist,Hamza.ai
+490,expert,Akash Dey,https://www.kaggle.com/aimack,2,0,92,146,India,West Bengal,Kolkata,Associate,Tata Consultancy Services
+491,expert,Abhishek Kumar,https://www.kaggle.com/uniabhi,1,8,105,146,India,Delhi,Delhi,computer science student,bharath university
+492,expert,Jay,https://www.kaggle.com/jaykumar1607,1,0,181,146,India,Uttar Pradesh,Greater Noida,Student,UNKOWN
+493,expert,Kaito,https://www.kaggle.com/japandata509,1,3,218,146,Japan,Tokyo,Tokyo,UNKOWN,UNKOWN
+494,grandmaster,NxGTR,https://www.kaggle.com/carloshuertas,58,92,444,145,United States,Washington,Seattle,Random Guy,Amazon
+495,expert,David Austin,https://www.kaggle.com/tivfrvqhs5,14,12,49,145,United States,Arizona,Phoenix,Engineer,Intel
+496,expert,Tobias Tesch,https://www.kaggle.com/tobiit,4,5,79,145,Germany,North Rhine-Westphalia,Jülich,PhD Student,Forschungszentrum Jülich
+497,expert,Tomo_DS,https://www.kaggle.com/tomods,1,1,102,145,Japan,Tokyo,Tokyo,Data Analyst,Financial company
+498,expert,Dave E,https://www.kaggle.com/davidedwards1,4,3,89,144,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+499,expert,FChmiel,https://www.kaggle.com/fchmiel,6,10,152,144,United Kingdom,England,Bath,Data Scientist,UNKOWN
+500,expert,Alexei Romanovich Krot,https://www.kaggle.com/alekseyromanovich,1,5,118,143,Russia,UNKOWN,Moscow,Graduate student,Lomonosov Moscow State University
+501,expert,human intelligence,https://www.kaggle.com/houndcl,6,3,45,142,United States,Maryland,Rockville,Biologist, 
+502,expert,Welf Crozzo,https://www.kaggle.com/miklgr500,8,10,66,142,Belarus,Minsk Region,Minsk,Machine Learning Engineer,21vek
+503,expert,Ishan Kotian,https://www.kaggle.com/lykin22,0,0,199,142,India,Maharashtra,Mumbai,Student,RAIT
+504,expert,Meet Nagadia,https://www.kaggle.com/meetnagadia,4,4,65,142,India,Gujarat,Ahmedabad,Student,Auro University
+505,expert,Erik Bruin,https://www.kaggle.com/erikbruin,5,14,448,141,Netherlands,North Holland,Amsterdam,Data Scientist,xxx
+506,expert,Kiran Chowdary,https://www.kaggle.com/kiranchowdary,3,5,100,140,India,Punjab,Patiala,student,Thapar University
+507,expert,Ali Abdin,https://www.kaggle.com/aliabdin1,1,6,185,140,Germany,Saxony,Dresden,Computer Scientist for Artificial Intelligence,Fraunhofer Society
+508,expert,Vadim Timakin,https://www.kaggle.com/vadimtimakin,8,5,73,140,Russia,Penza Oblast,Penza,Jobless,17
+509,expert,Tony Robinson,https://www.kaggle.com/tonyrobinson,6,5,100,139,United Kingdom,England,Cambridge,Entrepreneur,UNKOWN
+510,expert,Heitor Rapela Medeiros,https://www.kaggle.com/rapela,3,4,91,139,Canada,Quebec,Montreal,PhD Student,ETS Montreal
+511,expert,Chris Miles,https://www.kaggle.com/chrisrichardmiles,4,7,121,139,United States,California,Santa Cruz,Data Scientist,Self Employed
+512,expert,Robin Smits,https://www.kaggle.com/rsmits,2,14,231,138,Netherlands,Gelderland,UNKOWN,Data Scientist,RubiX
+513,expert,kss,https://www.kaggle.com/l0glikelihood,3,6,46,138,Czechia,Prague,Prague,UNKOWN,UNKOWN
+514,expert,Mani Sarkar,https://www.kaggle.com/neomatrix369,3,9,197,138,United Kingdom,England,London,"Freelance Software, Data, ML Engineer",Self-employed
+515,expert,StatWhizz,https://www.kaggle.com/toomuchsauce,0,0,133,138,Antarctica,UNKOWN,Antarctic Great Wall Station,Student,Kaggle
+516,expert,Long Luu,https://www.kaggle.com/aeryss,1,7,158,138,Vietnam,Ho Chi Minh City,Ho Chi Minh City,Discord: AerysS#5558,IU VNU-HCMC
+517,expert,Aayush Jain,https://www.kaggle.com/foolofatook,5,7,149,138,India,West Bengal,Kolkata,Data Scientist,GoKwik
+518,expert,SANDHYA S,https://www.kaggle.com/sansuthi,0,0,181,138,India,Kerala,Thiruvananthapuram,Kaggler ,Kaggle
+519,expert,Jay Shah,https://www.kaggle.com/js1312,4,1,92,137,Canada,Ontario,Windsor,Incoming Graduate ,University of Windsor
+520,expert,Minhajul Hoque,https://www.kaggle.com/minhajulhoque,0,6,93,137,Canada,Quebec,Montreal,Aerospace Engineer,UNKOWN
+521,expert,Alexander Firsov,https://www.kaggle.com/alexfir,15,19,116,136,Russia,Novosibirsk Oblast,Novosibirsk,Dreamer,Heart
+522,expert,Buffalo Spdwy,https://www.kaggle.com/barnwellguy,10,10,99,136,United States,Texas,Houston,Quant Researcher,a HFT firm
+523,expert,Nagesh Singh Chauhan,https://www.kaggle.com/nageshsingh,0,0,233,136,India,Telangana,Hyderabad,Data Specialist,AIS(Applied Information Sciences)
+524,expert,Purushottam Malgi,https://www.kaggle.com/purumalgi,1,3,104,136,India,Karnataka,Bengaluru,Data Analyst/Data Scientist,Unknown
+525,expert,JasonX,https://www.kaggle.com/jolasa,7,28,137,136,United States,Massachusetts,Boston,A.I & Data Business Strategist,-
+526,expert,Laevatein,https://www.kaggle.com/laevatein,8,6,56,135,Australia,Victoria,Melbourne,UNKOWN,UNKOWN
+527,expert,C4rl05/V,https://www.kaggle.com/cv13j0,0,3,247,135,United States,Nevada,Battle Mountain,Engineer,NGM
+528,expert,Rachael Tatman,https://www.kaggle.com/rtatman,12,12,563,135,United States,Washington,Seattle,Data Scientist,Kaggle
+529,expert,Vlad Golubev,https://www.kaggle.com/golubev,10,7,110,135,Vietnam,Hanoi,Hanoi,ML Engineer,FPT.ai
+530,expert,FGPC,https://www.kaggle.com/projdev,5,12,200,135,Christmas Island,UNKOWN,UNKOWN,kaggler,kaggle
+531,expert,Md Fahim,https://www.kaggle.com/mdfahimreshm,6,9,68,135,Bangladesh,Chittagong Division,Chattogram,Student,University of Dhaka
+532,expert,Yerram Varun,https://www.kaggle.com/yerramvarun,4,2,53,135,India,Telangana,Hyderabad,Student,IIT Guwahati
+533,expert,Shivani Rana,https://www.kaggle.com/shivanirana63,4,2,70,135,India,Gujarat,Ahmedabad,Junior ML Engineer,Omdena
+534,expert,funkyboy,https://www.kaggle.com/super13579,12,9,111,134,Taiwan,UNKOWN,Taipei,Data Scientist,MUEN AI
+535,expert,Murat Gocer,https://www.kaggle.com/mrtgocer,0,1,216,134,Turkey,İstanbul,İstanbul,MSc Big Data Analytics / Machine Learning Engineer,Bilgi University
+536,expert,Human Analog,https://www.kaggle.com/humananalog,8,16,168,133,Netherlands,North Brabant,Breda,Machine Learning Engineer,Self-Employed
+537,expert,Antara Chatterji,https://www.kaggle.com/antarachatterji,1,1,53,133,India,Jharkhand,Ranchi,Student,IIIT Bangalore
+538,expert,Bo Peng,https://www.kaggle.com/bopengiowa,2,5,163,132,United States,Iowa,Ames,UNKOWN,UNKOWN
+539,expert,Henrique Mendonça,https://www.kaggle.com/hmendonca,9,11,185,132,Brazil,State of São Paulo,Franca,CTO,BB Data
+540,expert,PAB97,https://www.kaggle.com/rftexas,7,13,104,132,France,Île-de-France,Paris,Graduate student,HEC Paris and Ecole Polytechnique
+541,expert,Vladimir,https://www.kaggle.com/vladimirsydor,7,17,70,132,Ukraine,UNKOWN,Kyiv,Deep Learning engineer,Respeecher
+542,expert,zhangeng,https://www.kaggle.com/zhangeng,1,3,123,132,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+543,expert,Aman Arora,https://www.kaggle.com/aroraaman,3,5,82,132,Australia,New South Wales,Sydney,Machine Learning Engineer,Weights & Biases
+544,expert,Gary,https://www.kaggle.com/garybios,11,15,117,131,China,Guangdong Province,Shenzhen,overfitting,Kaggle
+545,expert,Siddhesh Sawant,https://www.kaggle.com/siddheshera,0,3,196,131,India,Maharashtra,Navi Mumbai,Student,RAIT
+546,expert,ElenaEB,https://www.kaggle.com/elenaeb,1,5,96,131,United States,Michigan,Detroit,Curious for Data,Virtual Data Playgrounds
+547,expert,Statking,https://www.kaggle.com/deepkim,2,5,84,130,South Korea,Seoul,Seoul,A Data field worker,Statistics Korea
+548,expert,Bruce Young,https://www.kaggle.com/mutantspore,5,11,82,130,United States,Florida,Hudson,Potato stacker,a Supermarket
+549,expert,Mariusz Bronowicki,https://www.kaggle.com/godzill22,2,0,157,130,United Kingdom,England,Sherborne,Machine operator,Valmiera Glass
+550,expert,Raman,https://www.kaggle.com/samusram,6,4,109,129,Czechia,Prague,Prague,Research Engineer,Honeywell
+551,expert,Ajay Tibrewal,https://www.kaggle.com/the0electronic0guy,0,0,160,129,India,West Bengal,Howrah,Student,"IEM,Kolkata"
+552,expert,lyakaap,https://www.kaggle.com/lyakaap,4,6,43,128,Japan,Tokyo,Tokyo,Data Scientist,DeNA
+553,expert,Fellipe Gomes,https://www.kaggle.com/gomes555,3,2,157,128,Brazil,State of Rio de Janeiro,Rio de Janeiro,Data Scientist,Accenture
+554,expert,Amritvir Singh,https://www.kaggle.com/amritvirsinghx,1,6,224,128,India,Punjab,Phagwara,Data Engineer,Accenture
+555,expert,Andrey Shtrauss,https://www.kaggle.com/shtrausslearning,0,1,136,128,Russia,UNKOWN,Saint Petersburg,Aerodynamicist,Company
+556,expert,Steven Ferrer,https://www.kaggle.com/stevenrferrer,3,3,58,127,Philippines,Central Luzon,Tarlac City,UNKOWN,UNKOWN
+557,expert,Kostiantyn Isaienkov,https://www.kaggle.com/isaienkov,8,11,127,127,Ukraine,Kharkiv Oblast,Kharkiv,Data Science Engineer,Quantum
+558,expert,Alberto Maria Falletta,https://www.kaggle.com/albeffe,1,32,164,127,Italy,Piedmont,Turin,Data Engineering Graduate Student,Polytechnic University of Turin
+559,expert,FabienDaniel,https://www.kaggle.com/fabiendaniel,7,20,192,126,France,Occitanie,Toulouse,Data Scientist,Continental
+560,expert,Felipe Loque,https://www.kaggle.com/felipefonte99,7,8,63,126,Brazil,State of Minas Gerais,Belo Horizonte,Data Quality,Mediar Solutions
+561,expert,supplejade,https://www.kaggle.com/supplejade,0,3,178,126,India,Telangana,Hyderabad,Data Scientist,   Self
+562,expert,xuxu_sky,https://www.kaggle.com/xuxu1234,4,0,68,126,China,Beijing,Beijing,student,UNKOWN
+563,expert,Jeff Sonas,https://www.kaggle.com/jeffsonas,6,26,333,125,United States,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+564,expert,Rakesh Jarupula,https://www.kaggle.com/jarupula,4,3,59,125,India,Karnataka,Bengaluru,Data Science Intern,BetterPlace
+565,expert,Leonie,https://www.kaggle.com/iamleonie,2,1,136,125,Germany,Hesse,Frankfurt,Technical Project Lead,Automotive Industry
+566,expert,Kosta R,https://www.kaggle.com/boneacrabonjac,3,2,77,125,Serbia,Vojvodina,Novi Sad,Student,"University of Novi Sad, Faculty of Sciences"
+567,expert,Pavel Motloch,https://www.kaggle.com/motloch,2,2,51,124,Canada,Ontario,Toronto,Postdoctoral Fellow,University of Toronto
+568,expert,ironbar,https://www.kaggle.com/ironbar,11,12,103,124,Spain,Navarre,Pamplona,Data Scientist,Veridas
+569,expert,Marco Vasquez E,https://www.kaggle.com/marcovasquez,8,8,348,124,Costa Rica,San José Province,San José,Data Scientist ,WindRiver
+570,expert,Rashik Rahman,https://www.kaggle.com/rashikrahmanpritom,2,6,89,124,Bangladesh,Dhaka Division,Dhaka,Student ,University of Asia Pacific
+571,expert,Hikmet Sezen,https://www.kaggle.com/hikmetsezen,1,4,83,124,Germany,Berlin,Berlin,PhD Chemist (currently unemployed but possibly employed again),UNKOWN
+572,expert,Alex Maszanski,https://www.kaggle.com/alexmaszanski,2,0,74,124,Georgia,Tbilisi,Tbilisi,Deep Learning,Somewhere
+573,expert,Jie Lu,https://www.kaggle.com/jielu0728,9,11,68,123,China,Shanghai,Shanghai,Working,Bilibili
+574,expert,DmitryS,https://www.kaggle.com/simakov,12,6,54,123,Russia,UNKOWN,Moscow,DS,"Sber, Artificial Intelligence Lab"
+575,expert,Parth Chhabra,https://www.kaggle.com/oneplustricks,2,5,161,123,India,Uttarakhand,Roorkee,Student,IIT Roorkee
+576,expert,Pavel Fedotov,https://www.kaggle.com/pavfedotov,2,2,55,123,Russia,UNKOWN,Moscow,Dspyt.com,Dspyt.com
+577,expert,Samuel Cortinhas,https://www.kaggle.com/samuelcortinhas,1,2,75,123,United Kingdom,England,Cambridge,UNKOWN,UNKOWN
+578,expert,Michael Lopez,https://www.kaggle.com/statsbymichaellopez,7,9,56,122,United States,UNKOWN,UNKOWN,UNKOWN,National Football League
+579,master,Shujian Liu,https://www.kaggle.com/shujian,29,43,339,122,United States,Massachusetts,Boston,Software Engineer,Google
+580,expert,Gold Retriever,https://www.kaggle.com/tonychenxyz,4,13,117,122,United States,New York,New York,Undergraduate Student,Columbia University
+581,expert,Ayush Goel,https://www.kaggle.com/yushg123,4,3,180,122,India,Karnataka,Bengaluru,Student,The International School Bangalore
+582,expert,Muhammad Raafat,https://www.kaggle.com/adamml,2,1,153,122,Egypt,Cairo Governorate,Cairo,Student,Faculty of Engineering
+583,expert,SeongwookLee,https://www.kaggle.com/seongwook93,3,3,51,122,South Korea,Gyeonggi-do,Osan-si,UNKOWN,UNKOWN
+584,expert,Solve for Fun,https://www.kaggle.com/anshumoudgil,0,2,310,121,France,Île-de-France,Paris,Engineer,Learn
+585,expert,Claudio Verdú Ruiz,https://www.kaggle.com/claverru,6,7,79,121,Spain,Community of Madrid,Madrid,AI Engineer,Bdeo
+586,expert,Yimin,https://www.kaggle.com/woshifym,6,1,79,121,Canada,Ontario,Toronto,DA,Toronto
+587,expert,Aatif Fraz,https://www.kaggle.com/aatiffraz,3,2,78,121,India,Madhya Pradesh,Jabalpur,UG,"Indian Institute of Information Technology, Design and Manufacturing, Jabalpur"
+588,expert,Dmitry Uarov,https://www.kaggle.com/dmitryuarov,1,2,134,121,Russia,UNKOWN,Moscow,Data Analyst,"LCC ""Дефанс Трейд"""
+589,expert,Luiz Bueno,https://www.kaggle.com/juniorbueno,0,8,53,121,Brazil,State of São Paulo,Campinas,Data Scientist | Machine Learning | Deep Learning | IA | Python |,UNKOWN
+590,expert,lhagiimn,https://www.kaggle.com/lhagiimn,4,14,48,120,South Korea,Chungcheongbuk-do,Cheongju-si,Ph.D. candidate,Chungbuk National University
+591,expert,Hieu Phung,https://www.kaggle.com/phunghieu,5,3,215,120,Vietnam,UNKOWN,Hà Nội,Machine Learning Engineer,PIXTA Vietnam Co. Ltd.
+592,expert,Satyam Prasad Tiwari,https://www.kaggle.com/satyampd,0,1,145,120,India,Karnataka,Bengaluru,Machine Learning & NLP Developer ,Tredence Analytics
+593,expert,Aman Kumar,https://www.kaggle.com/aestheteaman01,5,7,120,120,India,Bihar,Patna,Student,"Indian Institute of Technology, Madras"
+594,expert,Adrian Zinovei,https://www.kaggle.com/zinovadr,5,7,220,120,Canada,Ontario,Toronto,Tableau Expert ,SMART Inc
+595,expert,Naman Manchanda,https://www.kaggle.com/namanmanchanda,1,1,143,120,India,Delhi,New Delhi,staring,abyss
+596,expert,Vijay,https://www.kaggle.com/watzisname,1,5,130,120,India,Karnataka,Bengaluru,UNKOWN,Bangalore
+597,expert,Lázaro,https://www.kaggle.com/lazaro97,3,3,97,119,Peru,Callao Region,Lima,Ingeniería Estadística,Universidad Nacional de Ingeniería
+598,expert,nlgn,https://www.kaggle.com/kingychiu,9,9,171,118,Hong Kong,UNKOWN,Hong Kong,Software Engineer,Clover Health
+599,expert,Rishabh Agrahari,https://www.kaggle.com/rishabhiitbhu,8,17,225,118,India,Uttar Pradesh,Varanasi,AI Researcher,Tvarit GmbH
+600,expert,yukiya,https://www.kaggle.com/nyleve,3,4,171,118,Singapore,UNKOWN,Singapore,Research Engineer,Merry
+601,expert,Gabriel Prado,https://www.kaggle.com/capiru,5,3,46,118,Brazil,State of Rio Grande do Sul,Porto Alegre,Data Scientist,Poatek
+602,expert,tensor choko,https://www.kaggle.com/tensorchoko,0,7,77,118,Japan,Kanagawa,Kawasaki,UNKOWN,UNKOWN
+603,expert,mohamed_zayton,https://www.kaggle.com/mohamedzayton,0,0,171,118,Egypt,Alexandria Governorate,Alexandria,Student,Faculty Of Engineering
+604,expert,Muhammad Ismail,https://www.kaggle.com/muhammadismail99,0,0,208,118,Germany,Hessen,Frankfurt,Data Analyst,Frankfurt university of applied sciences
+605,expert,Yotoro,https://www.kaggle.com/shivansh002,5,2,60,118,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+606,expert,RossWightman,https://www.kaggle.com/rwightman,12,6,36,117,Canada,British Columbia,Vancouver,Freelancer,Wedge Labs
+607,expert,Hamish,https://www.kaggle.com/hamishdickson,4,9,148,116,United Kingdom,England,London,Lead Data Scientist,Sprout.ai
+608,expert,Izzy Adesanya,https://www.kaggle.com/prvnkmr,4,3,44,116,France,Île-de-France,Courbevoie,Data Scientist,Nvidia
+609,expert,Jonas Neri,https://www.kaggle.com/jonaslneri,2,1,77,116,Brazil,State of São Paulo,Campinas,Data Scientist,Kroton
+610,expert,laxman kusuma,https://www.kaggle.com/laxmankusuma,0,2,126,116,India,Telangana,Hyderabad,data scientist,posidex
+611,expert,Mehul Patole,https://www.kaggle.com/mehulpatole31,0,0,163,116,India,Maharashtra,Mumbai,spatial data specialist II,Here Technologies
+612,expert,Matt Motoki,https://www.kaggle.com/mmotoki,8,4,48,115,United States,Hawaii,Honolulu,UNKOWN,UNKOWN
+613,expert,pocket,https://www.kaggle.com/pocketsuteado,9,19,72,115,Japan,Tokyo,Tokyo,Kaggler,DeNA
+614,expert,Tahsin Mostafiz,https://www.kaggle.com/tahsin,4,3,57,115,United States,Florida,Gainesville,Graduate Research Assistant,University of Florida
+615,expert,Ayhm Dalila,https://www.kaggle.com/ayhmrba,0,5,111,115,United Arab Emirates,Dubai,Dubai,Head of AI,AI Club 
+616,expert,Yvtsan Levy,https://www.kaggle.com/yvtsanlevy,1,0,97,115,Israel,Tel Aviv District,Tel Aviv-Yafo,Software developer,UNKOWN
+617,expert,Mahmoud Limam,https://www.kaggle.com/mahmoudlimam,0,1,135,115,Tunisia,Sfax,Sfax,Student,Enet'com
+618,expert,Tarlan Nazarov,https://www.kaggle.com/tarlannazarov,0,5,59,115,Azerbaijan,UNKOWN,Baku,fmr. Quant modeler,Degussa Bank
+619,expert,Knightbearr,https://www.kaggle.com/knightbearr,0,1,110,115,Indonesia,West Java,Bogor,Self Taught Learner,Home
+620,expert,danzel,https://www.kaggle.com/springmanndaniel,3,5,57,114,Germany,Hesse,Frankfurt,Data Scientist,Havas Media
+621,expert,Yegor Biryukov,https://www.kaggle.com/yegorbiryukov,4,8,93,114,Antigua and Barbuda,Saint John,Saint John's,UNKOWN,UNKOWN
+622,expert,Bhupender Singh,https://www.kaggle.com/bhuppi2898,0,0,124,114,India,Delhi,Delhi,Trying to predict Cat as a CAT,UNKOWN
+623,expert,fchollet,https://www.kaggle.com/fchollet,18,18,76,113,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+624,expert,RSESHA,https://www.kaggle.com/rsesha,1,2,121,113,United States,New York,New York,AI Services,Google
+625,expert,Wei Hao Khoong,https://www.kaggle.com/khoongweihao,2,6,197,113,Singapore,UNKOWN,Singapore,Data Scientist,NTT Ltd.
+626,expert,Divyansh Agrawal,https://www.kaggle.com/divyansh22,3,14,136,113,India,Uttar Pradesh,Ghaziabad,Intern,Aryabhatta Research Institute of Observational Sciences
+627,expert,Ali Mashood,https://www.kaggle.com/alimashoud,0,0,146,113,Pakistan,Sindh,Karachi,Student ,own 
+628,expert,Ivan Natarov,https://www.kaggle.com/ivannatarov,4,2,96,113,Russia,Primorsky Krai,Vladivostok,Data analyst,Ministry of Economic Development of Primorsky Region
+629,expert,Kartik Khandelwal,https://www.kaggle.com/kartik2khandelwal,0,3,92,113,India,Uttar Pradesh,Agra,Student,Dayalbagh Educational Institute
+630,expert,Siddharth Kulkarni,https://www.kaggle.com/mykeysid10,3,5,78,113,India,Maharashtra,Solapur,Student,Walchand Institute Of Technology
+631,expert,ELoo,https://www.kaggle.com/aditeloo,0,2,138,113,Bangladesh,Chittagong Division,Chattogram,Student,JU
+632,expert,Naser Al-qaydeh,https://www.kaggle.com/naseralqaydeh,0,3,104,113,Jordan,Amman Governorate,Amman,Student,Jordan University of Science and Technology
+633,expert,Manoj Prabhakar,https://www.kaggle.com/manojprabhaakr,2,12,216,112,India,Karnataka,Bengaluru,Data Scientist,Philips
+634,expert,Bryan Arnold,https://www.kaggle.com/puremath86,3,10,108,112,United States,Texas,Houston,Data Scientist,Flatiron
+635,expert,Kostya Atarik,https://www.kaggle.com/kostyaatarik,8,12,69,112,Belarus,Minsk Region,Minsk,Looking for a job,"remote, hybrid or on-site"
+636,expert,Tomas Mantero,https://www.kaggle.com/tomasmantero,0,2,229,112,Chile,Santiago Metropolitan Region,Santiago,Industrial Engineering ,University of Southern California
+637,expert,Nitin Datta,https://www.kaggle.com/nitindatta,3,5,124,112,United States,California,San Jose,Masters in Data Science,San Jose State University
+638,expert,Stanislav Blinov,https://www.kaggle.com/stanislavblinov,6,14,206,112,Russia,UNKOWN,Moscow,Project Director,Gazprombank
+639,expert,Pranav Anand,https://www.kaggle.com/pranavanand24,3,8,94,112,India,Bihar,Patna,CSE '22,"Thapar Institue of Engineering and Technology,  Patiala"
+640,expert,Zach,https://www.kaggle.com/zachmayer,7,23,235,111,United States,Massachusetts,Boston,Data Scientist,DataRobot
+641,expert,Louis Yang,https://www.kaggle.com/louis925,3,8,129,111,United States,California,Santa Clara,Physics Ph.D.,UCLA
+642,expert,Kash,https://www.kaggle.com/kaushiksuresh147,0,7,144,111,India,Tamil Nadu,Chennai,Data Scientist,Kaleidofin
+643,expert,yuanzhe zhou,https://www.kaggle.com/yuanzhezhou,2,3,72,111,China,Hubei,Wuhan,Junior data engineer,BAIDU
+644,expert,Arun P R,https://www.kaggle.com/arunprathap,1,8,113,111,India,Kerala,Thiruvananthapuram,Scientist/Engineer,VSSC/ISRO
+645,expert,Heeral Dedhia,https://www.kaggle.com/heeraldedhia,6,3,103,111,India,Maharashtra,Mumbai,Decision Analytics Associate,ZS
+646,expert,Raman Jha,https://www.kaggle.com/thestranger7,2,6,48,111,India,Maharashtra,Pune,Jr MLE,Omdena
+647,expert,Michael Maguire,https://www.kaggle.com/thawatt,12,18,155,110,United States,Idaho,Boise,President,Hawat Group Analytics
+648,expert,SeuTao,https://www.kaggle.com/shentao,12,11,32,110,China,Guangdong Province,Shenzhen,DATA SCIENCE,HOME
+649,expert,Nikhil Khetan,https://www.kaggle.com/nikhilkhetan,2,4,49,110,India,Maharashtra,Mumbai,Data Analyst,Citi
+650,expert,Ramesh Babu Gonegandla,https://www.kaggle.com/rameshbabugonegandla,0,0,264,110,India,Maharashtra,Pune,Lead Python Developer,IBM
+651,expert,JINO ROHIT,https://www.kaggle.com/sparkyjunior,0,1,142,110,Bahrain,Central Governorate,Isa Town,Oh hey there ;),@you
+652,expert,Milan Kalkenings,https://www.kaggle.com/milankalkenings,1,2,140,110,Germany,Lower Saxony,Hildesheim,Student,Stiftung Universität Hildesheim
+653,expert,Mohammed Tayor,https://www.kaggle.com/tayorm,9,10,203,109,United Arab Emirates,Dubai,Dubai,UNKOWN,UNKOWN
+654,expert,sandy1112,https://www.kaggle.com/sandy1112,3,10,150,109,India,Karnataka,Bengaluru,Data Sciences & ML Engineering,Walmart
+655,expert,See--,https://www.kaggle.com/seesee,9,12,100,109,Germany,Berlin,Berlin,UNKOWN,UNKOWN
+656,expert,Wilmer Henao,https://www.kaggle.com/verracodeguacas,2,5,51,109,United States,New York,New York,PhD in Operations Engineering,University of Michigan
+657,expert,Poe Dator,https://www.kaggle.com/poedator,8,5,45,109,Russia,UNKOWN,Moscow,aspiring data scientist,between jobs
+658,expert,timetraveller,https://www.kaggle.com/timetraveller98,4,9,141,109,India,Delhi,Delhi,Computer Science Undergrad,Delhi Technological University
+659,expert,Arpit Bhushan Sharma,https://www.kaggle.com/arpit3043,0,0,175,109,India,Maharashtra,Pune,Data Scientist,Tata Consultant Services
+660,expert,Sonali Singh,https://www.kaggle.com/sonalisingh1411,1,0,91,109,India,Karnataka,Bengaluru,Data Analyst ,Aspion Technologies Pvt Ltd
+661,expert,Naim Mhedhbi,https://www.kaggle.com/naim99,1,5,164,109,Tunisia,Tunis,Tunis,Data Scientist ,Madar Consulting
+662,expert,Evan Zhang,https://www.kaggle.com/ironicninja,0,2,155,109,United States,North Carolina,Wilmington,Incoming Student,Carnegie Mellon (SCS '25)
+663,expert,Chanakya Vivek Kapoor,https://www.kaggle.com/chanakyavivekkapoor,0,1,167,109,India,Haryana,Gurugram,Machine Learning Researcher,DSC-VIT
+664,expert,LucaMTB,https://www.kaggle.com/lucamtb,2,2,53,109,Austria,Tyrol,Innsbruck,Analyst,www.kaspressknoedel.com
+665,expert,Alexander Riedel,https://www.kaggle.com/alexanderriedel,3,4,59,109,Germany,Thuringia,Jena,Staff,University
+666,expert,steubk,https://www.kaggle.com/steubk,9,11,64,108,Italy,Lazio,Rome,data analyst,softlab
+667,expert,Tom Aindow,https://www.kaggle.com/taindow,11,8,133,108,Isle of Man,UNKOWN,Onchan,Data Scientist,humn.ai
+668,expert,Komal Khetlani,https://www.kaggle.com/komalkhetlani,1,4,91,108,India,Karnataka,Bengaluru,Software Engineer,Shell India Markets Private Limited
+669,expert,TEJA KUMAR,https://www.kaggle.com/ravillatejakumar,0,0,157,108,India,Karnataka,Bengaluru,Machine learning Intern,Ineuron
+670,expert,Anjali Anupam,https://www.kaggle.com/anjalianupam,0,0,131,108,India,Bihar,Patna,Student,IIIT Jabalpur
+671,expert,BIZEN,https://www.kaggle.com/hiro5299834,1,3,105,107,Japan,Okayama,Bizen,Studio potter,UNKOWN
+672,expert,Peter Hahn,https://www.kaggle.com/pehahn,4,3,54,107,Germany,Baden-Württemberg,Bad Rappenau,Hand Surgeon,Vulpius Klinik
+673,expert,JJ,https://www.kaggle.com/jjinho,4,9,55,107,United States,New York,New York,Physician, 
+674,expert,hiromu,https://www.kaggle.com/hiromoon166,7,3,50,107,Japan,Tokyo,Tokyo,Data Scientist, Recruit Co. Ltd
+675,expert,Darkate,https://www.kaggle.com/jihangz,8,15,123,107,United States,California,Irvine,Data Analyst,getBIsmart
+676,expert,Sreshta Putchala,https://www.kaggle.com/sreshta140,0,0,207,107,India,Telangana,Hyderabad,UNKOWN,UNKOWN
+677,expert,Mighty Rains,https://www.kaggle.com/mightyrains,2,10,88,106,India,Karnataka,Bengaluru,Noob,SittingOverGargoyles
+678,expert,Alexander,https://www.kaggle.com/alexandervc,2,9,72,106,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+679,expert,Devalla,https://www.kaggle.com/vishnudevalla2404,0,2,129,106,India,Telangana,Nanakaramguda,Sr. Data Engineer,Coforge Technology
+680,expert,朴大福,https://www.kaggle.com/southsakura,2,4,60,106,Hong Kong,UNKOWN,Hong Kong,Student,Home
+681,expert,Stefan Živanov,https://www.kaggle.com/stefanzivanov,2,1,74,106,Serbia,Vojvodina,Perlez,Information Technologies Student,"Tehnički fakultet ""Mihajlo Pupin"""
+682,expert,Chryzal,https://www.kaggle.com/chryzal,0,0,95,106,Benin,Littoral Department,Cotonou,Data Science enthusiast,UNKOWN
+683,master,Andy Harless,https://www.kaggle.com/aharless,27,57,502,105,United States,Massachusetts,Boston,Data Scientist,Kessel Run
+684,expert,oliver,https://www.kaggle.com/ollibolli,0,7,51,105,Switzerland,Zurich,Zürich,Student,ETHZ
+685,expert,Erkan Hatipoğlu,https://www.kaggle.com/erkanhatipoglu,2,3,189,105,Turkey,Ankara,Ankara,Avionics Test Engineer,Roketsan A.Ş.
+686,expert,Ahmed Ashour,https://www.kaggle.com/ahmedterry,0,0,165,105,Egypt,Cairo Governorate,Al Muqattam City,Digital Designer,Media-Tourch
+687,master,Wendy Kan,https://www.kaggle.com/wendykan,44,65,316,104,United States,California,San Francisco,Engineer,Google
+688,expert,yabea,https://www.kaggle.com/yukia18,5,3,47,104,Japan,Tokyo,Tokyo,Data Scientist,Tokyo
+689,expert,Jose Guzman,https://www.kaggle.com/joseguzman,1,3,119,104,Austria,Vienna,Vienna,Research Associate,Institute of Molecular Biotechnology (IMBA)
+690,expert,Udbhav Pangotra,https://www.kaggle.com/udbhavpangotra,1,4,105,104,India,Delhi,Delhi,Data Scientist,Vodafone
+691,expert,Mateusz Jablonski,https://www.kaggle.com/datapple,0,0,132,104,Poland,Lesser Poland Voivodeship,Kraków,Software Asset Manager,Hapag - Lloyd
+692,expert,Frank Puk,https://www.kaggle.com/pukkinming,2,5,128,103,United States,District of Columbia,Washington,UNKOWN,UNKOWN
+693,expert,Mohsin hasan,https://www.kaggle.com/tezdhar,7,17,73,103,India,Karnataka,Bengaluru,Data Scientist,OKCredit
+694,expert,Phaedrus,https://www.kaggle.com/pheadrus,1,5,49,103,India,West Bengal,Kolkata,Data Scientist II,Novartis
+695,expert,Kupchanski,https://www.kaggle.com/kupchanski,4,6,67,103,Russia,Chelyabinsk Oblast,Chelyabinsk,CV engineer,Everypixel
+696,expert,Tian,https://www.kaggle.com/tiandaye,1,3,89,103,China,Sichuan,Chengdu,Kaggle,night
+697,expert,Ram Ramrakhya,https://www.kaggle.com/axel81,6,11,136,103,India,Karnataka,Bengaluru,Software Engineer,InMobi
+698,expert,Vineeth,https://www.kaggle.com/vineethakkinapalli,2,0,115,103,India,Tamil Nadu,Chennai,Machine Learning Developer ,Zumen Inc.
+699,expert,Aishwarya Wuntkal,https://www.kaggle.com/aishu2218,1,4,166,103,India,Karnataka,Bengaluru,Software Engineer ,Mindtree
+700,expert,Pankaj Bhowmik,https://www.kaggle.com/pankajbhowmik,4,1,74,103,Bangladesh,Dhaka Division,Dhaka,CS Graduate,HSTU
+701,expert,Abu Bakar,https://www.kaggle.com/bakar31,2,2,93,103,Bangladesh,Dhaka Division,Munshiganj,Student,Rajshahi University of Engineering and Technology
+702,expert,Mansi75,https://www.kaggle.com/mansi75,3,3,102,103,India,Uttar Pradesh,Varanasi,Student,"Institute of Engineering and technology,Lucknow"
+703,expert,Muhammad Imran Zaman,https://www.kaggle.com/muhammadimran112233,0,1,121,103,Pakistan,UNKOWN,Punjab,Rapids,NVIDIA
+704,expert,Darragh,https://www.kaggle.com/darraghdog,9,9,107,102,Ireland,County Dublin,Dublin,AI Researcher,DoubleYard
+705,expert,BryanB,https://www.kaggle.com/bryanb,2,10,109,102,France,Île-de-France,Paris,Data scientist,Ensae ParisTech
+706,expert,Arpit Verma,https://www.kaggle.com/varpit94,0,1,120,102,India,Delhi,New Delhi,Risk Modeling,Wells Fargo
+707,expert,Moshel,https://www.kaggle.com/moshel,6,15,238,102,New Zealand,Canterbury,Christchurch,UNKOWN,UNKOWN
+708,expert,William Wu,https://www.kaggle.com/wuwenmin,4,3,67,102,Singapore,UNKOWN,Singapore,Lead Machine Learning Engineer,Grab
+709,expert,CHANDAN,https://www.kaggle.com/chandansinghnegi,2,11,137,102,India,Uttarakhand,Almora,Student,UNKOWN
+710,expert,Sergey Saharovskiy,https://www.kaggle.com/sergiosaharovskiy,1,3,68,102,United States,New York,New York,Data Science and Analytics,UNKOWN
+711,expert,Huzaifa Muhammad Siddique,https://www.kaggle.com/huzaifams,0,3,94,102,Pakistan,Khyber Pakhtunkhwa,Peshawar,Student,IIUI Peshawar
+712,expert,Sergei Fironov,https://www.kaggle.com/sergeifironov,10,15,52,101,Russia,UNKOWN,Saint Petersburg,DS,SberMarket
+713,expert,voru588,https://www.kaggle.com/alenavorushilova,5,11,105,101,France,Île-de-France,Paris,Financial Analyst | Data Analyst | Python | R,NA
+714,expert,Saleh Ahmed Rony,https://www.kaggle.com/salehahmedrony,2,2,183,101,Bangladesh,Dhaka Division,Dhaka,Student,Bangladesh University of Professionals
+715,expert,Mrigendra Agrawal,https://www.kaggle.com/mrigendraagrawal,2,4,49,101,India,Uttarakhand,Dehradun,student,UPES
+716,expert,Miguel Fzzz,https://www.kaggle.com/miguelfzzz,0,0,100,101,Canada,British Columbia,Vancouver,UNKOWN,UNKOWN
+717,expert,Mathurin Aché,https://www.kaggle.com/mathurinache,2,4,48,100,France,Pays de la Loire,Orvault,Data Scientist,Prevision.io
+718,expert,Saurav Agarwal,https://www.kaggle.com/sauravagarwal,0,0,156,100,India,Karnataka,Bengaluru,Senior Architect ,NVIDIA
+719,expert,Ernee,https://www.kaggle.com/ekozyreff,7,3,41,100,Brazil,State of São Paulo,Sorocaba,Professor,Unesp
+720,expert,Dapeng,https://www.kaggle.com/li325040229,4,4,68,100,China,Beijing,Beijing,ph.D,UCAS
+721,expert,Massimiliano Viola,https://www.kaggle.com/mviola,2,8,107,100,Italy,Veneto,Padua,Student,Padua University
+722,expert,Venkatkumar R,https://www.kaggle.com/venkatkumar001,0,0,100,100,India,Tamil Nadu,Madurai,Graduate Engineer,Anna university
+723,expert,tharun_01,https://www.kaggle.com/tharun2001,0,2,94,100,India,Telangana,Hyderabad,student,jntuh university
+724,expert,Seungbum Lim,https://www.kaggle.com/seungbumlim,0,0,102,100,South Korea,Seoul,Seoul,MBA candidate,Sogang Business School AI MBA
+725,expert,ilovepotatoes,https://www.kaggle.com/thakurudit,3,3,85,100,India,Himachal Pradesh,Shimla,Student,Manipal University Jaipur
+726,expert,Zahid Ali,https://www.kaggle.com/zahidmahar,0,0,154,100,Pakistan,Punjab,Sadiqabad,Software Developer,Wizinsights
+727,expert,Artyom Palvelev,https://www.kaggle.com/artyomp,12,17,110,99,United Kingdom,England,Manchester,ML engineer,UNKOWN
+728,expert,fffrrt,https://www.kaggle.com/fffrrt,1,8,46,99,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+729,expert,domiziano.stingi95,https://www.kaggle.com/domizianostingi,0,4,141,99,Italy,Emilia-Romagna,Bologna,data scientist,looking for a job
+730,expert,Md. Redwan Karim Sony,https://www.kaggle.com/redwankarimsony,1,4,130,99,Bangladesh,Dhaka Division,Gazipur,Lecturer,lsamic University of Technology (IUT)
+731,expert,Khushi Shahh,https://www.kaggle.com/khushishahh,1,7,67,99,India,Gujarat,Ahmedabad,student,Pandit Deendayal Energy University
+732,expert,Mekhdi Gakhramanian,https://www.kaggle.com/mekhdigakhramanian,1,3,124,99,Russia,UNKOWN,Moscow,Head of Digital Marketing,Amacorp | Machine learning enthusiast
+733,expert,Kurian Benoy,https://www.kaggle.com/kurianbenoy,1,5,215,98,India,Kerala,Kochi,DataScientist,AOT Technologies
+734,expert,The Nam,https://www.kaggle.com/namgalielei,2,4,45,98,Vietnam,Hanoi,Hanoi,Data Scientist,Viettel Data Governance Department
+735,expert,Rémi Cogranne,https://www.kaggle.com/remicogranne,8,11,35,98,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+736,expert,Yolanda,https://www.kaggle.com/yolandakaggle,0,0,165,98,United States,California,San Jose,Data Scientist Enthusiast,UNKOWN
+737,expert,Ivan Panshin,https://www.kaggle.com/ivanpan,9,10,72,98,Russia,Sverdlovsk Oblast,Yekaterinburg,Deep Learning Engineer,OmicEra
+738,expert,Kaveh Shahhosseini,https://www.kaggle.com/kavehshahhosseini,2,1,55,98,Iran,Tehran Province,Tehran,Business Analyst,Hamgam Information Technology
+739,expert,Zekun,https://www.kaggle.com/zekunn,1,3,99,98,China,Fujian,Fuzhou,Student,HUST
+740,expert,Tanmay Unhale,https://www.kaggle.com/tanmayunhale,1,0,167,98,India,Maharashtra,Pune,Student,MIT-WPU
+741,expert,Ammar Alhaj Ali,https://www.kaggle.com/ammarnassanalhajali,1,1,108,98,Kuwait,Hawalli Governorate,Hawally,Phd Student,Tomas bata university in zlín
+742,expert,Dhinahar P,https://www.kaggle.com/dhinaharp,1,1,71,98,India,Tamil Nadu,Tiruppur,Student,KPR Institute of Engineering and Technology
+743,expert,Taffey Lewis,https://www.kaggle.com/taffeylewis,9,22,228,97,UNKOWN,UNKOWN,UNKOWN,Optimizer,Life
+744,expert,Tarun Paparaju,https://www.kaggle.com/tarunpaparaju,9,9,172,97,United States,Massachusetts,Westford,CS undergrad,UMass Amherst
+745,expert,Praveen Kumar,https://www.kaggle.com/prokaggler,0,1,162,97,India,Maharashtra,Mumbai,Data Scientist,JCI
+746,expert,Draconda,https://www.kaggle.com/ryunosukeishizaki,6,6,52,97,Japan,Tokyo,Tokyo,Entrepreneur,-
+747,expert,Neelima Jauhari,https://www.kaggle.com/nilimajauhari,1,5,181,97,India,Delhi,New Delhi,Management Trainee- Big Data,Hyundai Motors
+748,expert,PavanKalyan,https://www.kaggle.com/pavan9065,1,2,73,97,India,Karnataka,Bengaluru,Machine Learning Engineer,Data Template
+749,expert,Syed Jafer,https://www.kaggle.com/syedjaferk,0,2,79,97,India,Kerala,Thiruvananthapuram,Systems Engineer,Infosys
+750,expert,lucif3r,https://www.kaggle.com/d4rklucif3r,1,0,117,97,India,Delhi,New Delhi,No-One,No-where
+751,expert,OsciiArt,https://www.kaggle.com/osciiart,10,13,63,96,Japan,Osaka,Osaka,"Osamu Akiyama, a medical doctor",Osaka University
+752,expert,Feng Xie,https://www.kaggle.com/xfffrank,2,2,70,96,China,Guangdong Province,Shenzhen,Algorithm Engineer,.
+753,expert,V.Prasanna Kumar,https://www.kaggle.com/vpkprasanna,3,3,99,96,India,Tamil Nadu,Chennai,NLP Engineer,Optisol Business Solutions
+754,expert,Mohammad Kashif,https://www.kaggle.com/mohammadkashifunique,1,3,68,96,India,Jharkhand,Hazaribagh,Student,Lakshmi Narain College of Technology and Science
+755,expert,AG,https://www.kaggle.com/qquick,1,1,69,96,United States,Hawaii,Honolulu,DS,UNKOWN
+756,expert,glazed,https://www.kaggle.com/glazed,3,7,86,95,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+757,expert,Eswar Chand,https://www.kaggle.com/eswarchandt,2,3,252,95,United States,Georgia,Atlanta,Graduate Research Assistant,Georgia State University
+758,expert,Naresh Bhat,https://www.kaggle.com/nareshbhat,1,15,118,95,India,Karnataka,Mangalore,Azure Developer,TCS
+759,expert,Alan Kabisov,https://www.kaggle.com/alankabisov,2,2,58,95,Russia,North Ossetia–Alania Republic,Vladikavkaz,Data Scientist ,UNKOWN
+760,expert,Madhav Mathur,https://www.kaggle.com/madz2000,1,0,261,95,India,Delhi,New Delhi,Student,Netaji Subhas Institute of Technology
+761,expert,Başak Ceren Seçik,https://www.kaggle.com/basakcerensecik,0,0,147,95,Turkey,İstanbul,İstanbul,Data Scientist,American Hospital
+762,expert,Prashans Dixit,https://www.kaggle.com/prashansdixit,0,0,152,95,India,Rajasthan,Banswara,Class 10 Student,St. Paul's School
+763,expert,Sameer1502,https://www.kaggle.com/sameer1502,2,0,79,95,India,Maharashtra,Mumbai,AI Research intern ,SCAAI
+764,expert,Bulent Siyah,https://www.kaggle.com/bulentsiyah,2,2,185,94,Turkey,İstanbul,İstanbul,Software Engineer (Computer Vision | Deep Learning),AirCar
+765,expert,Muhammad Navaid,https://www.kaggle.com/mnavaidd,1,0,133,94,Pakistan,Sindh,Karachi,Machine Learning Engineer,Appedology
+766,expert,Satyajit Pattnaik,https://www.kaggle.com/pattnaiksatyajit,0,0,160,94,Hong Kong,UNKOWN,Hong Kong,Sr. Data Scientist ,Sun Life
+767,expert,majoraregalia,https://www.kaggle.com/avtobusbratiev,1,7,45,94,Belarus,Minsk Region,Minsk,Stuck,Kali Yuga
+768,expert,L0Z1K,https://www.kaggle.com/baekseungyun,2,2,53,94,South Korea,Seoul,Seoul,Student,Korea University
+769,expert,Shital Gaikwad,https://www.kaggle.com/shitalgaikwad123,2,3,55,94,India,Maharashtra,Mumbai,BE IT ,UNKOWN
+770,expert,Russ Wolfinger,https://www.kaggle.com/sasrdw,15,30,111,93,United States,North Carolina,UNKOWN,UNKOWN,UNKOWN
+771,expert,pao,https://www.kaggle.com/go5kuramubon,6,3,44,93,Japan,Aichi,Nagoya,Data Scientist,Japanese company
+772,expert,Changyi,https://www.kaggle.com/vicioussong,4,7,53,93,France,Île-de-France,Paris,Data Scientist,UNKOWN
+773,expert,Marco Gorelli,https://www.kaggle.com/marcogorelli,1,6,151,93,United Kingdom,England,Richmond,Data Scientist,UNKOWN
+774,expert,Mohsin Ramay,https://www.kaggle.com/mohsinisu,0,3,111,93,United Kingdom,England,Exeter,Data Science Fellow,University of Exeter
+775,expert,Bruno Luiz Ferreira,https://www.kaggle.com/brunotly,0,2,102,93,Brazil,State of Santa Catarina,Blumenau,Student,Federal University of Santa Catarina
+776,expert,Shihao Shao,https://www.kaggle.com/louieshao,4,2,48,93,China,Beijing,Beijing,Student,"School of Basic Medical Sciences, Peking University"
+777,expert,Sreevishnu Damodaran,https://www.kaggle.com/sreevishnudamodaran,2,1,109,93,India,Kerala,Kochi,Data Scientist,TCS
+778,expert,RezAm,https://www.kaggle.com/rezameri,1,6,74,93,United States,Washington,Seattle,Data Scientist ,Harvard University
+779,expert,Benny Fung,https://www.kaggle.com/bennyfung,0,3,75,93,Hong Kong,UNKOWN,Hong Kong,Analytics,Prudential
+780,expert,Richard Barrett-Jolley,https://www.kaggle.com/richardbj,8,9,42,92,United Kingdom,England,UNKOWN,Personal Chair (Professor) of Neuropharmacology,University of Liverpool
+781,expert,Arnaud Roussel,https://www.kaggle.com/arroqc,5,8,93,92,Canada,Quebec,Montreal,ML engineer,Jumio
+782,expert,Eduardo Rocha de Andrade,https://www.kaggle.com/arc144,7,8,147,92,Brazil,State of São Paulo,Campinas,Senior Data Scientist,Sprout.ai
+783,expert,bsan,https://www.kaggle.com/backaggle,11,8,111,92,United States,Arkansas,Fayetteville,UNKOWN,UNKOWN
+784,expert,Quan,https://www.kaggle.com/quandapro,7,7,70,92,Vietnam,Hanoi,Hanoi,Student,HUS University
+785,expert,Josh,https://www.kaggle.com/joshuaswords,0,0,136,92,United States,New York,New York,Data Science Engineer,AWS
+786,expert,Alif Rahman,https://www.kaggle.com/alifrahman,1,4,125,92,Bangladesh,Dhaka Division,Dhaka,Software Engineer (AI Department),BJIT Limited
+787,expert,Haithem Hermessi,https://www.kaggle.com/haithemhermessi,2,3,121,92,Tunisia,Tunis,Tunis,Lead data scientist - AI Engineer,DNA global Analytics
+788,expert,Homayoon khadivi,https://www.kaggle.com/homayoonkhadivi,0,0,133,92,Australia,South Australia,Adelaide,Data Scientist ,UNKOWN
+789,expert,Sandra P,https://www.kaggle.com/sandraphari,0,0,117,92,India,Kerala,Thiruvananthapuram,Student ,"Department of Future Studies, University of Kerala"
+790,expert,Billy Feng,https://www.kaggle.com/billyfeng,0,0,104,92,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+791,expert,BlueDragon,https://www.kaggle.com/zenstat,1,1,65,91,India,Delhi,New Delhi,Analytics,Somewhere
+792,expert,Strideradu,https://www.kaggle.com/strideradu,14,9,134,91,United States,California,Menlo Park,Research Scientist,an ads company
+793,expert,Shiro,https://www.kaggle.com/ludovick,3,6,75,91,France,Île-de-France,Paris,AI Engineer,UNKOWN
+794,expert,Max Jeblick,https://www.kaggle.com/maxjeblick,7,9,41,91,Germany,Bavaria,Munich,Data Scientist,H2O.ai
+795,expert,Wonjun Park🏆,https://www.kaggle.com/wonjunpark,5,4,46,91,South Korea,Seoul,Seoul,Student, University
+796,expert,Elvin Aghammadzada,https://www.kaggle.com/elvinagammed,0,5,111,91,United States,Massachusetts,Boston,Data Scientist,Kaggle
+797,expert,The Brown Iceman,https://www.kaggle.com/deepakrajpurushothaman,4,3,54,90,Germany,Baden-Württemberg,Karlsruhe,student,The Brown Iceman Inc
+798,expert,Pavel Orlov,https://www.kaggle.com/sapr3s,1,4,58,90,Russia,UNKOWN,Moscow,Programmer,freelance
+799,expert,Jared Savage,https://www.kaggle.com/jaredsavage,4,6,114,90,Ireland,County Cork,Cork,Master,procrastinating 
+800,expert,DtneSEffct,https://www.kaggle.com/binaicrai,0,0,262,90,India,Telangana,Hyderabad,Playing with Data,Data World
+801,expert,Abdessalem Boukil,https://www.kaggle.com/abdessalemboukil,5,4,43,90,Tunisia,Tunis,Tunis,Student,Freelance
+802,expert,Hao,https://www.kaggle.com/superchenhao,0,5,61,90,China,Beijing,Beijing,engineer,company
+803,expert,Rushi,https://www.kaggle.com/rushikeshlavate,5,4,54,90,India,Maharashtra,Amravati,Student,PRMCEAM
+804,expert,Raghav Gupta,https://www.kaggle.com/theeyeschico,0,0,124,90,India,Maharashtra,Mumbai,Student,Narsee Monjee Institute of Management Studies (NMIMS)
+805,expert,antoreepjana,https://www.kaggle.com/antoreepjana,0,1,109,90,India,Delhi,New Delhi,Graduated,Delhi Technological University (formerly DCE)
+806,expert,Parker,https://www.kaggle.com/cswwp347724,2,4,108,89,China,Shanghai,Shanghai,UNKOWN,UNKOWN
+807,expert,msafi04,https://www.kaggle.com/msafi04,2,5,59,89,Singapore,UNKOWN,Singapore,Machine Learning Enthusiast,None
+808,expert,Bhushan Kapkar,https://www.kaggle.com/bpkapkar,4,5,136,89,India,Telangana,Hyderabad,Data Scientist(Supply chain Analytics and Licensing/Compliance) ,TTEC
+809,expert,Dhananjay Raut,https://www.kaggle.com/dhananjay3,7,7,64,89,India,Telangana,Hyderabad,Computer Science Student,IIT Hyderabad
+810,expert,Maxime Lenormand,https://www.kaggle.com/maxlenormand,7,2,115,89,Netherlands,North Holland,Amsterdam,Geospatial Data Scientist,Overstory.ai
+811,expert,Gerwyn Ng,https://www.kaggle.com/gerwynng,2,6,87,89,Singapore,UNKOWN,Singapore,Data Scientist,sg
+812,expert,Naman Jaswani,https://www.kaggle.com/namanj27,4,6,100,89,India,Karnataka,Bengaluru,Masters student,IISc Bangalore
+813,expert,AIFahim,https://www.kaggle.com/aifahim,4,0,81,89,Bangladesh,Sylhet Division,Sreemangal,Student of CSE ,Green University of Bangladesh
+814,expert,from coffee import *,https://www.kaggle.com/ChristianDenich,4,7,74,89,Germany,Bavaria,Munich,Engineer,BMW Group
+815,expert,Abhinav Sharma,https://www.kaggle.com/sharmastic,1,1,91,89,India,Chhattisgarh,Raipur,Student,IIIT Naya Raipur
+816,expert,Ahmed Salama (Salama4ai),https://www.kaggle.com/salama4ai,1,2,69,89,Egypt,Cairo Governorate,Cairo,Data Scientist,( LOOKING-FOR-WORK )
+817,expert,outrunner,https://www.kaggle.com/outrunner,10,8,49,88,Taiwan,UNKOWN,Taipei,Data Scientist,YUAN
+818,expert,Salim Khazem,https://www.kaggle.com/salimkhazem,1,8,61,88,France,Île-de-France,Paris,Student,Paris Saclay
+819,expert,Yash Gupta,https://www.kaggle.com/eryash15,0,4,64,88,India,Maharashtra,Pune,Data Scientist Engineer,Tata Consultancy Services
+820,expert,fireflies,https://www.kaggle.com/firefliesqn,1,1,64,88,Vietnam,Ho Chi Minh City,Ho Chi Minh City, Chăn Trâu,HOME
+821,expert,Mashlyn,https://www.kaggle.com/mashlyn,3,4,235,88,Japan,Tokyo,Tokyo,Software Engineer,Systems Integrator
+822,expert,Murilão,https://www.kaggle.com/upadorprofzs,0,2,183,88,Brazil,State of Rio Grande do Sul,Rio Grande,AI,HEALTH
+823,expert,Wojtek Rosa,https://www.kaggle.com/wrrosa,4,2,44,88,Poland,Lublin Voivodeship,Lublin,Assistant,Lublin University Technology
+824,expert,Yann Majewski,https://www.kaggle.com/yannmajewski,2,6,106,88,Canada,Quebec,Montreal,Engineering Student,ETS Montreal
+825,expert,G_R_S,https://www.kaggle.com/danoozy44,3,3,171,88,India,Tamil Nadu,Chennai,Computer Science Student,"College of Engineering, Guindy"
+826,expert,Arindam Baruah,https://www.kaggle.com/arindambaruah,0,0,207,88,India,Madhya Pradesh,Indore,Graduate teaching assistant, Indian Institute of Technology
+827,expert,spin fit,https://www.kaggle.com/kimalpha,1,0,106,88,South Korea,Busan,Busan,mechanical engineer ,Doosan machine Tools
+828,expert,Ram Jas Maurya,https://www.kaggle.com/ramjasmaurya,0,1,73,88,India,Delhi,New Delhi,Engineer ,Dezinotech
+829,expert,Javier Vallejos,https://www.kaggle.com/javiervallejos,0,2,95,88,Bolivia,La Paz Department,La Paz,Researcher ,Computer Engineering Laboratory (CE-L) 
+830,expert,Rafi Zonenashvili,https://www.kaggle.com/rafiko1,5,4,69,87,Belgium,Flanders,Antwerp,Master,kaggle
+831,expert,Zeeshan-ul-hassan Usmani,https://www.kaggle.com/zusmani,8,5,123,87,United States,New Jersey,Princeton,Data Science Consultant,Freelancer
+832,expert,Larxel,https://www.kaggle.com/andrewmvd,3,4,69,87,Brazil,State of São Paulo,São Paulo,Volunteer,D4SG
+833,expert,Xin Cui,https://www.kaggle.com/xincuimath,1,5,74,87,United States,New York,New York,UNKOWN,UNKOWN
+834,expert,Pranav Kasela,https://www.kaggle.com/pranavkasela,1,5,173,87,Italy,Lombardy,Milan,Data Science Student,Università degli Studi di Milano-Bicocca
+835,expert,Marie,https://www.kaggle.com/mariapushkareva,0,0,211,87,United States,Florida,Tampa,Data Scientist/Data Engineer/BI Developer ,ChenMed
+836,expert,Alex Lau,https://www.kaggle.com/alexlwh,2,3,71,87,Singapore,UNKOWN,Singapore,AI Software Engineer,Pencil
+837,expert,AbdurRafae,https://www.kaggle.com/abdurrafae,5,4,56,87,Germany,Lower Saxony,Hildesheim,Student,University Hildesheim
+838,expert,Abhinand,https://www.kaggle.com/abhinand05,4,8,133,87,India,Tamil Nadu,Coimbatore,Principal AI Engineer,QpiCloud
+839,expert,Kiran Sharma,https://www.kaggle.com/kdsharmaai,1,0,84,87,India,Gujarat,Vadodara,Sr. Software Engineer,UNKOWN
+840,expert,Nikunj Malpani,https://www.kaggle.com/nikunjmalpani,1,0,113,87,India,Uttar Pradesh,Noida,Business Analyst,Paytm Mall
+841,expert,Aditya Sharma,https://www.kaggle.com/adityasharma01,0,4,54,87,India,Madhya Pradesh,Damoh,Student,SGN
+842,expert,Abishek Sudarshan,https://www.kaggle.com/abisheksudarshan,1,5,122,86,India,Tamil Nadu,Chennai,Data Science Manager,PayPal
+843,expert,Fredrik Jonsson,https://www.kaggle.com/frjo0083,9,13,146,86,Sweden,Västerbotten County,Umeå,Statistician,Freelance
+844,expert,Joseph Horton,https://www.kaggle.com/josephhorton,0,3,81,86,Canada,British Columbia,Vancouver,Master of Science in Computer Science student,Georgia Tech
+845,expert,Alex Bader,https://www.kaggle.com/spacelx,4,5,63,86,Belgium,Flanders,Ghent,Graduate student,Lancaster University
+846,expert,kit.ai,https://www.kaggle.com/kitagrawal,0,1,132,86,United States,California,Los Angeles,Data Scientist,Startup
+847,expert,Vítor Gama Lemos,https://www.kaggle.com/vitorgamalemos,0,2,128,86,Brazil,State of Rio de Janeiro,Rio de Janeiro,Researcher,UFF
+848,expert,Somesh Sharma,https://www.kaggle.com/somesh24,0,4,155,86,India,Uttar Pradesh,Noida,Data Scientist,Sociolla
+849,expert,404X,https://www.kaggle.com/lasindudemel,1,2,57,86,Sri Lanka,Western Province,Colombo,UNKOWN,UNKOWN
+850,expert,Huynh Dong Nguyen,https://www.kaggle.com/winternguyen,0,0,156,86,United States,Nevada,Las Vegas,PhD | Data Science,UNKOWN
+851,expert,Trent,https://www.kaggle.com/trentb,5,8,63,85,United States,Virginia,Arlington,UNKOWN,UNKOWN
+852,expert,Akash kumar,https://www.kaggle.com/singhakash,2,4,138,85,India,Delhi,New Delhi,Associate Data Scientist,First Hive
+853,expert,Dhruv,https://www.kaggle.com/dhruvagg,1,1,159,85,India,Delhi,New Delhi,Data Science Analytics Intern ,ProjectPro
+854,expert,Rahul,https://www.kaggle.com/rahulsd91,2,8,71,85,Canada,Ontario,Waterloo,Postdoctoral Researcher,UW
+855,expert,Siraz Naorem,https://www.kaggle.com/siraznaorem,1,7,153,85,India,Delhi,Delhi,Student,Delhi Technological University
+856,expert,Abhi,https://www.kaggle.com/akpmpr,1,2,71,85,India,Kerala,Kochi,Student, Kaggle
+857,expert,Muhammad Saad,https://www.kaggle.com/saadsikander,0,1,89,85,Pakistan,Sindh,Karachi,Software Engineer and Data Scientist,Fiverr and UpWork
+858,expert,raja-dv,https://www.kaggle.com/rajadv,0,0,104,85,India,Andhra Pradesh,Rajahmundry,Student,NIT Surat
+859,expert,Pranesh Rajendra Kumar,https://www.kaggle.com/praneshrajendrakumar,0,3,79,85,India,Tamil Nadu,Coimbatore,Robotics Engineer,AAtek Robo
+860,expert,victorasso,https://www.kaggle.com/victorasso,1,3,59,84,Brazil,Federal District,Brasília,Data Scientist,Assesso
+861,expert,seefun,https://www.kaggle.com/seefun,7,6,89,84,China,Shanghai,Shanghai,Master Student,SJTU
+862,expert,interneuron,https://www.kaggle.com/interneuron,7,14,232,84,United States,Texas,Austin,neuroscience,UNKOWN
+863,expert,Harsh Walia,https://www.kaggle.com/harshwalia,2,1,59,84,India,Uttar Pradesh,Saharanpur,Pre-Final year Student,IIIT Gwalior
+864,expert,Karthik Vadlamudi,https://www.kaggle.com/karthikvadlamudi,0,2,68,84,India,Telangana,Hyderabad,Datascience Intern,UNKOWN
+865,expert,Levent Özdemir,https://www.kaggle.com/leventoz,1,1,87,84,Turkey,Konya,Konya,Data Scientist & PSQL Developer,TERRA SOFTWARE INFORMATICS
+866,expert,Zidmie,https://www.kaggle.com/zidmie,3,7,47,83,France,Auvergne-Rhône-Alpes,Lyon,UNKOWN,UNKOWN
+867,expert,MT,https://www.kaggle.com/mtinti,5,5,61,83,United Kingdom,Scotland,Dundee,Bioinformatician,University of Dundee
+868,expert,Waylon Wu,https://www.kaggle.com/waylongo,10,4,59,83,China,Shandong,Qingdao,Student,University of Missouri
+869,expert,Ahmed Shahin,https://www.kaggle.com/ahmedhshahin,2,11,74,83,Egypt,Cairo Governorate,Cairo,PhD Student,UCL
+870,expert,Debanga Raj Neog,https://www.kaggle.com/debanga,7,6,87,83,Canada,Ontario,Toronto,Machine Learning Researcher,Nytilus INC.
+871,expert,Kassem,https://www.kaggle.com/elcaiseri,1,8,139,83,Egypt,Port Said Governorate,Port Fuad,FreeLancer,Upwork
+872,expert,Jan Bre,https://www.kaggle.com/jpbremer,7,4,44,83,Germany,Hamburg,Hamburg,MD Student,UKE
+873,expert,David Tang,https://www.kaggle.com/dcstang,5,6,199,83,United Kingdom,England,London,Community Lead,AiCamp London
+874,expert,Mohammad Imran Shaikh,https://www.kaggle.com/shikhnu,1,1,118,83,India,Karnataka,Bengaluru,Associate Data Analyst,Indium Software
+875,expert,Maneesh,https://www.kaggle.com/maneesh99,0,3,124,83,India,Uttar Pradesh,Lucknow,Machine Learning Enthusiast,IET Lucknow
+876,expert,Shanmukh,https://www.kaggle.com/shanmukh05,0,1,108,83,India,West Bengal,Kharagpur,sophomore,IIT Kharagpur
+877,master,Bluefool,https://www.kaggle.com/domcastro,10,53,489,82,United Kingdom,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+878,expert,Ole Kröger,https://www.kaggle.com/wikunia,4,9,101,82,Germany,Baden-Württemberg,Heidelberg,Student,UNI Heidelberg
+879,expert,Gaurav Rawat,https://www.kaggle.com/gauravbrills,0,3,57,82,United States,Massachusetts,Marlborough,Specialist,Publicis Sapient
+880,expert,Ryan Armstrong,https://www.kaggle.com/rsa013,2,3,70,82,United States,Idaho,Moscow,Earth Scientist,UNKOWN
+881,expert,Pranit Bhujel,https://www.kaggle.com/pranitbhujel,1,5,172,82,India,West Bengal,Darjeeling,Programmer Analyst Trainee,Cognizant
+882,expert,Prakhar Prasad,https://www.kaggle.com/prakharprasad,0,0,138,82,India,Karnataka,Bengaluru,Segment Quality Leader,Signify Innovations Lab
+883,expert,Siavash,https://www.kaggle.com/siavrez,6,6,127,82,Germany,Berlin,Berlin,Data Scientist, SE
+884,expert,adldotori,https://www.kaggle.com/adldotori,2,4,50,82,South Korea,Seoul,Seoul,ML Engineer,Corca
+885,expert,Kemal Gunay,https://www.kaggle.com/kemalgunay,0,0,67,82,Turkey,İstanbul,İstanbul,Ph.D,Istanbul University
+886,expert,Mohammad Reza Ghari,https://www.kaggle.com/rezaghari,5,3,124,82,Iran,Tehran Province,Tehran,UNKOWN,UNKOWN
+887,expert,Artem,https://www.kaggle.com/kurazh,0,0,107,82,Russia,UNKOWN,Moscow,Head Economist,Russian space systems
+888,expert,Ahmed Mohamed Mahrous,https://www.kaggle.com/ahmedmohamedmahrous,0,0,76,82,Egypt,Cairo Governorate,Cairo,Data science student,faculty of  Computers & Artificial Intelligence
+889,expert,Prathik Mohan,https://www.kaggle.com/pratmo,0,2,55,82,India,Maharashtra,Mumbai,Data Science Enthusiast,ExcelR Solutions
+890,expert,kxx,https://www.kaggle.com/kailex,3,5,205,81,UNKOWN,UNKOWN,UNKOWN,PhD,UNKOWN
+891,expert,Dan Ofer,https://www.kaggle.com/danofer,3,9,169,81,Israel,Tel Aviv District,Tel Aviv-Yafo,Senior Data Scientist,Medtronic
+892,expert,Ben Tesch,https://www.kaggle.com/btesch,2,7,85,81,United States,Utah,Midvale,Senior Data Analyst - Supply Chain,Overstock.com
+893,expert,Urvish,https://www.kaggle.com/urvishp80,0,3,80,81,India,Gujarat,Ahmedabad,ML Engineer ,Pirimid Fintech
+894,expert,Manuel Campos,https://www.kaggle.com/coreacasa,5,4,54,81,Spain,Community of Madrid,Madrid,Kaggler at None,UNKOWN
+895,expert,Blesson Densil,https://www.kaggle.com/blessondensil294,4,3,90,81,India,Karnataka,Bengaluru,Data Scientist,AT&T Pvt Ltd India
+896,expert,Bjorn,https://www.kaggle.com/bjoernjostein,0,3,98,81,Norway,Oslo,Oslo,Researcher,Oslo University Hospital
+897,expert,Lucas Schnack,https://www.kaggle.com/luji01,2,4,65,81,Germany,Bavaria,Munich,CS student,TU Munich
+898,expert,Jo Tom,https://www.kaggle.com/joatom,0,3,74,81,Germany,North Rhine-Westphalia,Essen,Software Developer,financial service industry
+899,expert,Brun,https://www.kaggle.com/brunhs,5,8,225,81,Portugal,Braga,Braga,Data analyst,Datadudu
+900,expert,Francisco Escobar,https://www.kaggle.com/franciscoescobar,0,2,146,81,United States,Washington,Seattle,Data Scientist,MOLOCO
+901,expert,Paras Varshney,https://www.kaggle.com/blurredmachine,3,1,126,81,Poland,Masovian Voivodeship,Warsaw,Data Scientist,LogicAI
+902,expert,Mumin,https://www.kaggle.com/muhmin,2,0,71,81,India,Kerala,Kozhikode,Data Science enthusiast,UNKOWN
+903,expert,baycelik,https://www.kaggle.com/baycelik,1,2,55,81,UNKOWN,UNKOWN,UNKOWN,Data Scientist,UNKOWN
+904,expert,tarick.morty,https://www.kaggle.com/tarique7,2,8,65,80,India,Delhi,New Delhi,Data Scientist,H2O.ai
+905,expert,Utham Bathoju,https://www.kaggle.com/uthamkanth,1,7,71,80,India,Telangana,Hyderabad,Data Scientist,OGS
+906,expert,Carlos Domínguez,https://www.kaggle.com/carlosdg,1,3,139,80,Spain,Canary Islands,Santa Cruz de Tenerife,Engineer,"Cátedra Cajasiete Big Data, Open Data & Blockchain"
+907,expert,stpete_ishii,https://www.kaggle.com/stpeteishii,2,0,62,80,Japan,Hyogo,Kobe,Engineer,TZ TECHNO
+908,expert,Niharika Pandit,https://www.kaggle.com/niharika41298,0,0,211,80,India,Maharashtra,Mumbai,SES,Infosys Ltd
+909,expert,Umerkk12,https://www.kaggle.com/umerkk12,0,0,120,80,United States,New Jersey,Jersey City,Student,Rider University
+910,expert,Gokul Prakash P,https://www.kaggle.com/gokulprakash22,1,1,136,80,India,Tamil Nadu,Chennai,Research Intern,Tactii (formerly TalentAccurate)
+911,expert,BURLAGADDA SHYAM,https://www.kaggle.com/burlagaddashyam,0,3,61,80,India,Andhra Pradesh,Singarayakonda,under graduate student,RMD Engineering College
+912,expert,Masoud A. Jahromi,https://www.kaggle.com/satvicoder,0,0,111,80,Iran,Tehran Province,Tehran,CRM Snr. Manager,MTNI
+913,expert,Mayur Dalvi,https://www.kaggle.com/mayurdalvi,0,0,78,80,India,Maharashtra,Pune,Software Engineer,Nice Ltd
+914,expert,Devin Anzelmo,https://www.kaggle.com/devinanzelmo,6,14,274,79,United States,California,San Luis Obispo,UNKOWN,UNKOWN
+915,expert,Anshul Sharma,https://www.kaggle.com/anshuls235,2,0,173,79,India,Delhi,Delhi,Senior Data Scientist,IHS Markit
+916,expert,TJ Klein,https://www.kaggle.com/teejmahal20,7,5,124,79,United States,Minnesota,Minneapolis,Servo Firmware Engineer,Seagate Technology
+917,expert,Slash,https://www.kaggle.com/shashwat1001,0,0,102,79,India,Uttar Pradesh,Prayagraj,Student,Indian Institute of Information Technology
+918,expert,Aadhav Vignesh,https://www.kaggle.com/aadhavvignesh,0,7,121,79,India,Uttarakhand,Dehradun,Self-taught,Kaggle
+919,expert,NguyenThanhNhan,https://www.kaggle.com/andy2709,7,9,35,78,Vietnam,Ho Chi Minh City,Ho Chi Minh City,Data Scientist,Sprout.ai
+920,expert,Andy Penrose,https://www.kaggle.com/andypenrose,3,6,74,78,United Kingdom,England,Cambridge,Developer,FinTech
+921,expert,Arka Saha,https://www.kaggle.com/arka47,0,3,80,78,India,West Bengal,Kolkata,Technology Consultant,PwC 
+922,expert,Catadanna,https://www.kaggle.com/catadanna,0,2,111,78,France,Auvergne-Rhône-Alpes,Lyon,AI Engineer, Self employed
+923,expert,Roman Weilguny,https://www.kaggle.com/romanweilguny,0,2,117,78,Austria,Vienna,Vienna,IT Consultant,FIRE GesmbH
+924,expert,Tuan Nguyen Van Anh,https://www.kaggle.com/tuannguyenvananh,0,0,86,78,Vietnam,Ho Chi Minh City,Ho Chi Minh City,Student,IUH
+925,expert,Sean Hong,https://www.kaggle.com/hongsean,0,0,146,78,South Korea,Gyeonggi-do,Suwon-si,Business Analyst,Coupang
+926,expert,Sachin Sharma,https://www.kaggle.com/sachinsharma1123,0,2,127,78,India,Uttar Pradesh,Greater Noida,Student,Galgotias College Of Engineering And Technology
+927,expert,Emre Sengul,https://www.kaggle.com/emresengul,0,0,91,78,Turkey,İstanbul,İstanbul,Data Analyst,UNKOWN
+928,expert,Michael Jahrer,https://www.kaggle.com/mjahrer,21,39,110,77,Austria,Styria,Graz,UNKOWN,UNKOWN
+929,expert,n01z3,https://www.kaggle.com/drn01z3,22,8,47,77,Russia,UNKOWN,Moscow,Head of Computer Vision Platform,SberDevices
+930,expert,pip install kaggle,https://www.kaggle.com/shahnawazakhtar,2,2,57,77,Spain,Catalonia,Barcelona,UNKOWN,UNKOWN
+931,expert,Ashutosh Behera,https://www.kaggle.com/ashutosh3060,1,4,116,77,India,Karnataka,Bengaluru,Data Scientist,Hitachi Vantara
+932,expert,Mykola,https://www.kaggle.com/meowmeowmeowmeowmeow,0,0,57,77,Ukraine,Lviv Oblast,Lviv,R&D Engineer,ABTO Software
+933,expert,Zeynel,https://www.kaggle.com/zeynel7,0,0,111,77,Turkey,Bolu,Bolu,Electronics Engineer,    World
+934,expert,Mohaiminul Islam,https://www.kaggle.com/mohaiminul101,4,3,65,77,Bangladesh,Khulna Division,Khulna,Founder & President,Research Hub
+935,expert,Daniboy370,https://www.kaggle.com/daniboy370,0,3,146,77,Israel,Tel Aviv District,Tel Aviv-Yafo,🐠,🌊
+936,expert,Data Warrior,https://www.kaggle.com/datawarriors,2,0,143,77,India,Maharashtra,Pune,Data Scientist,GS Lab
+937,expert,Andy Jian Zhou,https://www.kaggle.com/andyjianzhou,3,1,47,77,Canada,Alberta,Calgary,UNKOWN,UNKOWN
+938,expert,Ryan Barretto,https://www.kaggle.com/ryanbarretto,0,1,55,77,United States,Illinois,Chicago,Student,742 Evergreen Terrace
+939,expert,Lasal Jayawardena,https://www.kaggle.com/lasaljaywardena,0,1,60,77,Sri Lanka,Western Province,Colombo,Student,Robert Gordon University
+940,expert,Ahmet Çalış,https://www.kaggle.com/ahmetcalis,0,1,93,77,Turkey,Manisa,Akhisar,Industrial Engineer,KOU
+941,expert,Mycroft Holmes,https://www.kaggle.com/stocks,9,9,134,76,United States,UNKOWN,UNKOWN,Andrei Petcherski,Self
+942,expert,currypurin,https://www.kaggle.com/currypurin,5,2,49,76,Japan,Tokyo,Tokyo,kaggler,data-refinement
+943,expert,huiqin,https://www.kaggle.com/qinhui1999,5,7,116,76,China,Guangdong Province,Shenzhen,freelancer,ml research
+944,expert,Louka Ewington-Pitsos,https://www.kaggle.com/lewington,7,8,75,76,Australia,Victoria,Melbourne,Chief Data Scientist,Frontline Data Systems
+945,expert,ARMADA,https://www.kaggle.com/fadylabib,5,4,47,76,Australia,New South Wales,Sydney,Engineering Manager,Telecomm industry
+946,expert,Mohsin Raza,https://www.kaggle.com/razamh,0,3,110,76,Pakistan,Punjab,Faisalabad,Machine Learning Engineer ,Self employee
+947,expert,AndrewTGraham,https://www.kaggle.com/andrewtgraham,0,4,56,76,United States,Pennsylvania,Philadelphia,Data Scientist,Exelon
+948,expert,Suyash Lakhani,https://www.kaggle.com/suyashlakhani,0,0,93,76,India,Tamil Nadu,Chennai,Data Engineer,Ford Motor Company
+949,expert,Maxim Kazantsev,https://www.kaggle.com/maximkazantsev,1,0,62,76,Russia,UNKOWN,Saint Petersburg,ML learner,Home
+950,expert,Andre Araujo,https://www.kaggle.com/andrefaraujo,2,15,52,75,UNKOWN,UNKOWN,UNKOWN,UNKOWN,UNKOWN
+951,expert,0x4RY4N,https://www.kaggle.com/aryankhatana,1,4,84,75,India,Delhi,New Delhi,Student,UNKOWN
+952,expert,Ritik P. Nayak,https://www.kaggle.com/ritikpnayak,0,3,87,75,India,Punjab,Patiala,Former Data Science Team Head,"Motosport Club, Punjabi University Patiala"
+953,expert,Ashutosh Sahay,https://www.kaggle.com/ashutoshsahay,1,0,55,75,India,Odisha,Bhubaneswar,Undergrad Wizard, Hogwarts
+954,expert,Rohan Sharma,https://www.kaggle.com/rohan4050,0,0,88,75,India,Maharashtra,Mumbai,Student,Amity University Mumbai
+955,expert,Felipe Bivort Haiek,https://www.kaggle.com/felipebihaiek,1,5,59,74,Argentina,Buenos Aires,Buenos Aires,Data scientist,Mercadolibre
+956,expert,Aditya Baurai,https://www.kaggle.com/fireheart7,1,5,91,74,India,Uttarakhand,Dehradun,Student,"Indian Institute of Information Technology, Design and Manufacturing, Jabalpur"
+957,expert,Amit Hasan Shuvo,https://www.kaggle.com/amithasanshuvo,4,1,101,74,Bangladesh,Rajshahi Division,Rajshahi,ML Engineer,ACI Limited
+958,expert,Lourens Walters,https://www.kaggle.com/lourenswalters,0,0,95,74,United Kingdom,England,Durham,Principal Data Scientist,Centre for Process Innovation (CPI)
+959,expert,Devashree Madhugiri,https://www.kaggle.com/devsubhash,0,0,81,74,India,Maharashtra,Pune,Data Analyst,an organization
+960,expert,Pierre-Louis DANIEAU,https://www.kaggle.com/pierrelouisdanieau,0,0,71,74,France,Île-de-France,Paris,Data Scientist,Crédit Agricole
+961,expert,jonas albrecht,https://www.kaggle.com/jonas0,1,1,116,74,Germany,Berlin,Berlin,Former Research Assistant,TU Berlin
+962,expert,IshaDS,https://www.kaggle.com/ishadss,0,2,101,74,India,Karnataka,Bengaluru,ML enthusiast,Germany
+963,expert,Hiroshi Sakiyama,https://www.kaggle.com/hiroshisakiyama,0,4,99,74,Japan,Yamagata,Yamagata,prof,YU
+964,expert,Advik Maniar,https://www.kaggle.com/advikmaniar,0,0,107,74,India,Maharashtra,Mumbai,Student,KJ Somaiya College of Engineering
+965,expert,Bharat Natrayn,https://www.kaggle.com/bharatnatrayn,0,0,77,74,India,Tamil Nadu,Chennai,UNKOWN,UNKOWN
+966,expert,babyoda,https://www.kaggle.com/babyoda,0,3,117,74,Hungary,UNKOWN,Budapest,MSc,Corvinus University of Budapest
+967,expert,eagle4,https://www.kaggle.com/chabir,3,12,119,73,United States,New York,New York,Looking for next opportunity,...
+968,expert,Shai,https://www.kaggle.com/sgalib,2,6,71,73,United States,Texas,Austin,Senior Data Scientist,H2O.ai
+969,expert,sahib singh,https://www.kaggle.com/sahib12,1,2,187,73,India,Punjab,Chandigarh,Junior Data Scientist,Tatras Data
+970,expert,Ayush Anand,https://www.kaggle.com/theayushanand,0,0,72,73,India,Delhi,Delhi,Student,"High School, Delhi"
+971,expert,Paramartha Sengupta,https://www.kaggle.com/paramarthasengupta,0,2,124,73,India,Karnataka,Bengaluru,Data Scientist,ZS Associates
+972,expert,SHREYAS P J,https://www.kaggle.com/shreyaspj,0,2,112,73,India,Odisha,Bhubaneswar,STUDENT ,"INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY,BHUBANESHWAR"
+973,expert,Priyanshu Chaudhary,https://www.kaggle.com/chaudharypriyanshu,1,3,49,73,India,Delhi,Delhi,Undergraduate,"NSUT ,New Delhi"
+974,expert,Gaurav Yadav,https://www.kaggle.com/gauravmehta13,3,5,65,73,India,Rajasthan,Alwar,Self Learning Data Science,Kaggle
+975,expert,Chandrima D,https://www.kaggle.com/chandrimad31,0,0,178,73,India,West Bengal,Kolkata,UNKOWN,UNKOWN
+976,expert,Weimin Wang,https://www.kaggle.com/weimin,5,2,43,72,United States,Massachusetts,Boston,UNKOWN,UNKOWN
+977,expert,SolverWorld,https://www.kaggle.com/solverworld,2,6,45,72,United States,Massachusetts,Boston,Chief Solver,SolverWorld
+978,expert,Paradox,https://www.kaggle.com/joeytaj,6,10,62,72,United States,UNKOWN,UNKOWN,Programmer,UNKOWN
+979,expert,daisukelab,https://www.kaggle.com/daisukelab,10,8,103,72,Japan,Kanagawa,Kawasaki,Research specialist,Japanese company
+980,expert,Ryan Epp,https://www.kaggle.com/reppic,3,3,59,72,United States,Washington,Seattle,ML Engineer - Driving Intelligence,Google
+981,expert,Kain,https://www.kaggle.com/kainsama,6,18,103,72,Germany,Bavaria,Munich,Data Scientist,https://www.qpage.one
+982,expert,Casper Winsnes,https://www.kaggle.com/cwinsnes,1,4,53,72,Sweden,Stockholm County,Stockholm,Ph.D Student,KTH Royal Institute of Technology
+983,expert,akensert,https://www.kaggle.com/akensert,3,4,111,72,Belgium,Flanders,Leuven,PhD student,KU Leuven
+984,expert,Asha Gutlapalli,https://www.kaggle.com/ashagutlapalli,1,1,76,72,India,Tamil Nadu,Chennai,Student,SRM Institute of Science and Technology
+985,expert,Claudio Collado,https://www.kaggle.com/ccollado7,0,2,82,72,Argentina,Buenos Aires Province,City Bell,Engineer,National Atomic Energy Commission (CNEA)
+986,expert,Tanishq Gautam,https://www.kaggle.com/ligtfeather,2,2,80,72,United States,Illinois,Chicago,Graduate Student,Illinois Tech
+987,expert,DiegoJohnson,https://www.kaggle.com/diegojohnson,4,4,115,72,China,Shanghai,Shanghai,Machine Learning,.
+988,expert,Abdelrady .M,https://www.kaggle.com/abdelradymc,0,0,71,72,Egypt,Cairo Governorate,Cairo,Data Scientist,Freelancer
+989,expert,SHOWMAKER,https://www.kaggle.com/sh0wmaker,0,0,97,72,South Korea,Gyeonggi-do,Seongnam-si,Undergraduate student,Dankook University
+990,expert,Najeeb Ahmed Bhuiyan,https://www.kaggle.com/najeebahmadbhuiyan,1,0,55,72,Bangladesh,Rajshahi Division,Rajshahi,Student,Rajshahi University of Engineering & Technology
+991,expert,Grzegorz Sionkowski,https://www.kaggle.com/sionek,9,32,221,71,Poland,Kuyavian-Pomeranian Voivodeship,Bydgoszcz,security engineer,Atos
+992,expert,HarshitMehta,https://www.kaggle.com/harshit92,2,11,128,71,United States,Texas,Austin,Data Scientist,Dell
+993,expert,spongebob,https://www.kaggle.com/baomengjiao,15,11,86,71,China,Beijing,Beijing,master student,Beihang University
+994,expert,Chanran Kim,https://www.kaggle.com/seriousran,6,5,71,71,South Korea,Seoul,Seoul,Builder,PseudoLab
+995,expert,Jean-Philippe MARY,https://www.kaggle.com/jpmary,1,4,70,71,France,Île-de-France,Paris,Data scientist,BPCE
+996,expert,Charles,https://www.kaggle.com/talktocharles,2,4,60,71,New Zealand,Auckland,Auckland,Analytics Manager,Data Insight
+997,expert,Santosh kumar,https://www.kaggle.com/santoshd3,1,3,89,71,India,Uttar Pradesh,Varanasi,SE,Infosys
+998,expert,Utku_Kubilay,https://www.kaggle.com/utkukubilay,2,6,141,71,Turkey,Istanbul,Istanbul,PhD Student | Data Scientist,Dogus Teknoloji
+999,expert,Rishabh Sethia,https://www.kaggle.com/rishabh6377,1,2,69,71,India,Rajasthan,Bikaner,Student,Poornima University 
+1000,expert,Santosh Kumar,https://www.kaggle.com/dssant85,0,0,204,71,India,Karnataka,Bengaluru,Research Scholar,KL Education Foundation 
